@@ -40,7 +40,7 @@
                     //fadeToggle = "toggle"
                 });                               
                 
-                
+                $(".yoxview").yoxview();                        
            
                 
 	});
