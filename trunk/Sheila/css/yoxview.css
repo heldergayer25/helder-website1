@@ -21,7 +21,7 @@
 	border: solid 1px #999;
 	overflow: hidden;
 	font-size: 10pt;
-	text-align: left;
+	text-align: left;        
 }
 #yoxview a img, #yoxview_infoPanel a img{ border: none; }
 #yoxview a:focus{ outline: none; }
