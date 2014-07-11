@@ -12,12 +12,7 @@ and open the template in the editor.
     </head>
     <body>                
         <?php include'./cabecalho.php'?>       
-        <div id="section_home"></div>   
-        <div class="thumbnails yoxview">
-                    <a href="imagens/yoxview-gallery/original/01.jpg"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="First" title="The first image" /></a>
-                    <a href="imagens/yoxview-gallery/original/02.jpg"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="First" title="The SECOND image" /></a>
-                    <a href="imagens/yoxview-gallery/original/03.jpg"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="First" title="The THIRD image" /></a>
-                </div>
+        <div id="section_home"></div>           
             <section>     
                 <ul class="thumbs">
                     <li>
@@ -40,13 +35,24 @@ and open the template in the editor.
                         <h4>Infográfico</h4><span class="description">Infográfico</span></a>
                     </li>                    
                 </ul>
+<div class="yoxview">
+    <a href="imagens/yoxview-gallery/original/01.jpg"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="First" title="The first image" /></a>
+    <a href="imagens/yoxview-gallery/original/02.jpg"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="First" title="The SECOND image" /></a>
+    <a href="imagens/yoxview-gallery/original/03.jpg"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="First" title="The THIRD image" /></a>
+</div>
                 <div class="portfolio-content">
                     <div id="thumb1">
                         <div class="media"><iframe src="//player.vimeo.com/video/69666609?byline=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
                         <h1>Web development</h1>
+<div class="yoxview">
+    <a href="imagens/yoxview-gallery/original/01.jpg"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="First" title="The first image" /></a>
+    <a href="imagens/yoxview-gallery/original/02.jpg"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="First" title="The SECOND image" /></a>
+    <a href="imagens/yoxview-gallery/original/03.jpg"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="First" title="The THIRD image" /></a>
+</div>
+
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis nisi sit amet metus venenatis, ut congue turpis aliquet. Pellentesque eget elit sollicitudin, feugiat felis in, ornare diam. Morbi blandit sapien nibh, eu pulvinar tortor luctus nec. Aenean lobortis lacus cursus gravida adipiscing. Praesent in odio porta, placerat felis id, viverra est. Nam magna quam, tincidunt eget augue in, aliquet tristique ipsum.</p>
                         <a href="#" class="btn btn-primary">Learn More</a>
-                    </div>
+                    </div>      
                     <div id="thumb2">
                         <div class="media"><img src="images/5454.jpg"/></div>
                         <h1>SEO</h1>
