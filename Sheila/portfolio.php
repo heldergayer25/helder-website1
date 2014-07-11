@@ -12,7 +12,12 @@ and open the template in the editor.
     </head>
     <body>                
         <?php include'./cabecalho.php'?>       
-        <div id="section_home"></div>        
+        <div id="section_home"></div>   
+        <div class="thumbnails yoxview">
+                    <a href="imagens/yoxview-gallery/original/01.jpg"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="First" title="The first image" /></a>
+                    <a href="imagens/yoxview-gallery/original/02.jpg"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="First" title="The SECOND image" /></a>
+                    <a href="imagens/yoxview-gallery/original/03.jpg"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="First" title="The THIRD image" /></a>
+                </div>
             <section>     
                 <ul class="thumbs">
                     <li>
