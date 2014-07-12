@@ -95,7 +95,7 @@ if (typeof Object.create !== 'function') {
             // Add content
             var $portfolioContent = $($href);
             var html = '<li class="content"><span class="close">&times;</span>' + $portfolioContent.html() + '</li>';
-
+            
             self.$elem.find('li:eq(' + (contentPos - 1) + ')').after(html);
 
             // Animate
