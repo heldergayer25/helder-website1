@@ -40,9 +40,6 @@
                     //fadeIn = "show"}
                     //fadeOut = "hide"
                     //fadeToggle = "toggle"
-                });                               
-                
-                                  
-           
+                });    
                 
 	});
