@@ -12,7 +12,7 @@
         //Fontes adicionadas 
 	$(function(){		
             
-             $(".yoxview").yoxview();     
+                
 		//Cufon('header nav#menu ul li a', { fontFamily: 'Daisy Script'});   
                 Cufon('footer address, footer p', { fontFamily: 'Open Sans'});   
                 Cufon('div.texto', { fontFamily: 'Josefin Sans'});   
