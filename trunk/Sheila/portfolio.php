@@ -42,12 +42,10 @@ and open the template in the editor.
                 <div class="portfolio-content">
                     <div id="thumb1">
                         <div class="media"><iframe src="//player.vimeo.com/video/69666609?byline=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-                        <h1>Web development</h1>
-                        <div class="yoxview">
-                            <a href="imagens/yoxview-gallery/original/01.jpg"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="First" title="The first image" /></a>
-                            <a href="imagens/yoxview-gallery/original/02.jpg"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="First" title="The SECOND image" /></a>
-                            <a href="imagens/yoxview-gallery/original/03.jpg"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="First" title="The THIRD image" /></a>
-                        </div>
+                        <h1>Web development</h1>                        
+                        <a class="fancybox" href="imagens/yoxview-gallery/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="" /></a>
+                        <a class="fancybox" href="imagens/yoxview-gallery/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="" /></a>
+                        <a class="fancybox" href="imagens/yoxview-gallery/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="" /></a>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis nisi sit amet metus venenatis, ut congue turpis aliquet. Pellentesque eget elit sollicitudin, feugiat felis in, ornare diam. Morbi blandit sapien nibh, eu pulvinar tortor luctus nec. Aenean lobortis lacus cursus gravida adipiscing. Praesent in odio porta, placerat felis id, viverra est. Nam magna quam, tincidunt eget augue in, aliquet tristique ipsum.</p>
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>      
@@ -55,12 +53,10 @@ and open the template in the editor.
                         <div class="media"><img src="images/5454.jpg"/></div>
                         <h1>SEO</h1>
                         <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Integer a posuere tortor. Praesent malesuada mauris massa, non blandit neque tempus nec. Quisque fermentum nunc non hendrerit tempus.</p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
-                        <div class="yoxview">
-                            <a href="imagens/yoxview-gallery/original/01.jpg"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="First" title="The first image" /></a>
-                            <a href="imagens/yoxview-gallery/original/02.jpg"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="First" title="The SECOND image" /></a>
-                            <a href="imagens/yoxview-gallery/original/03.jpg"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="First" title="The THIRD image" /></a>
-                        </div>
+                        <a class="fancybox" href="imagens/yoxview-gallery/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="" /></a>
+                        <a class="fancybox" href="imagens/yoxview-gallery/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="" /></a>
+                        <a class="fancybox" href="imagens/yoxview-gallery/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="" /></a>
+                        <a href="#" class="btn btn-primary">Learn More</a>                        
                     </div>
                     <div id="thumb3">
                         <div class="media"><img src="images/media.jpg"/></div>
