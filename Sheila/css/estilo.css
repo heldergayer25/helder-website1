@@ -26,7 +26,7 @@ and open the template in the editor.
 		header, nav, footer, section, article, aside { display:block; font-family:Arial, Helvetica, sans-serif; }
 		
 	/*  Classes de uso comum */
-		.wrapper { width:1000px; margin:0 auto; padding:0 0px; }
+		.wrapper { width:1000px; margin:0 auto; padding:0 0px; font-family: 'Josefin Sans', sans-serif; }
 		.clear { clear:both; }
 		.left { float:left; }
 		.right { float:right; }
@@ -218,6 +218,14 @@ ul.thumbs li.content {
         font-family: 'Josefin Sans', sans-serif;
 }
 
+ul.thumbs li.content h1{
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;    
+    color: #6B6B6B;
+}
+
 ul.thumbs li.content h3 {
     display: inline-block;
     font-family: 'Josefin Sans', sans-serif;
@@ -284,7 +292,17 @@ ul.thumbs li.content .media img {
     font-family: 'Josefin Sans', sans-serif;
 }
 
-
 .fancybox-custom .fancybox-skin {
-			box-shadow: 0 0 50px #222;
-		}
+    box-shadow: 0 0 50px #222;
+}
+                
+ul.thumbs li.content p {
+    line-height: 20px; 
+    color: #999;    
+}
+
+ul.thumbs li.content .galeria {
+    margin-top: 35px;   
+    text-align: center;    
+}
+
