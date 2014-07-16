@@ -12,7 +12,9 @@ and open the template in the editor.
     </head>
     <body>                
         <?php include'./cabecalho.php'?>       
-        <div id="section_home"></div>           
+        <div id="section_home"></div>   
+        <?php $breadcrumb = new breadcrumb;
+echo $breadcrumb->show_breadcrumb();?>
             <section>     
                 <ul class="thumbs">
                     <li>
@@ -119,7 +121,7 @@ and open the template in the editor.
                         </p>  
                     </div>
                 </div>
-            </section>    
+            </section>           
         <div id="section_home"></div>
         <?php include './rodape.php';?>
     </body>
