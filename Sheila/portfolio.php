@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Portfólio</title>
+        <title>Portfólio</title>        
         <?php include './referencias.php';?>
     </head>
     <body>                
@@ -17,7 +17,7 @@ and open the template in the editor.
                 <ul class="thumbs">
                     <li>
                         <a href="#thumb2" class="thumbnail" style="background-image: url('imagens/capa-portfolio/capa-croqui.jpg')">
-                        <h4>Croquis</h4><span class="description">Croquis</span></a>                        
+                        <h4>Croquis</h4><span class="description">Croquis</span></a>
                     </li>
                     <li><a href="#thumb1" class="thumbnail" style="background-image: url('imagens/capa-portfolio/capa-cartoes-comemorativos.jpg')">
                         <h4>Cartões</h4><span class="description">Cartões Comemorativos</span></a>
@@ -56,6 +56,11 @@ and open the template in the editor.
                         <h1>SEO</h1>
                         <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Integer a posuere tortor. Praesent malesuada mauris massa, non blandit neque tempus nec. Quisque fermentum nunc non hendrerit tempus.</p>
                         <a href="#" class="btn btn-primary">Learn More</a>
+                        <div class="yoxview">
+                            <a href="imagens/yoxview-gallery/original/01.jpg"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="First" title="The first image" /></a>
+                            <a href="imagens/yoxview-gallery/original/02.jpg"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="First" title="The SECOND image" /></a>
+                            <a href="imagens/yoxview-gallery/original/03.jpg"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="First" title="The THIRD image" /></a>
+                        </div>
                     </div>
                     <div id="thumb3">
                         <div class="media"><img src="images/media.jpg"/></div>
@@ -82,11 +87,12 @@ and open the template in the editor.
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
-                <div class="yoxview">
+                
+                <!--<div class="yoxview">
                     <a href="imagens/yoxview-gallery/original/01.jpg"><img src="imagens/yoxview-gallery/thumbnails/01.jpg" alt="First" title="The first image" /></a>
                     <a href="imagens/yoxview-gallery/original/02.jpg"><img src="imagens/yoxview-gallery/thumbnails/02.jpg" alt="First" title="The SECOND image" /></a>
                     <a href="imagens/yoxview-gallery/original/03.jpg"><img src="imagens/yoxview-gallery/thumbnails/03.jpg" alt="First" title="The THIRD image" /></a>
-                </div>
+                </div>-->
             </section>    
         <div id="section_home"></div>
         <?php include './rodape.php';?>
