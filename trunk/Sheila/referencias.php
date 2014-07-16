@@ -8,13 +8,15 @@
 
 <script src="js/modernizr.js" type="text/javascript"></script>
 <script type="text/javascript" src="js/jquery-1.4.2.js"></script>
-<script src="js/config.js" type="text/javascript"></script>
+<script src="js/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/plugins/yoxview-gallery/jquery.yoxview-2.21.min.js"></script>
 <script src="js/plugins/cufon/cufon.js" type="text/javascript"></script>
 <script src="js/plugins/portfolio/portfolio.jquery.js" type="text/javascript"></script>
 <script src="js/plugins/portfolio/gulpfile.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/plugins/yoxview-gallery/jquery.yoxview-2.21.min.js"></script>
 
-<link rel="icon" type="image/x-icon" href="imagens/favicon-caveira.png" />
+<script src="js/config.js" type="text/javascript"></script>
+
+<link rel="shortcut icon" type="image/x-icon" href="imagens/favicon-caveira.png" />
 
 <!-- Fontes -->
 <script src="js/fontes/Daisy_Script_400.font.js" type="text/javascript"></script>
