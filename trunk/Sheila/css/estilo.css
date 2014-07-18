@@ -218,14 +218,6 @@ ul.thumbs li.content {
         font-family: 'Josefin Sans', sans-serif;
 }
 
-ul.thumbs li.content h1{
-    margin-bottom: 20px;
-    font-size: 18px;
-    font-weight: 700;
-    font-family: 'Josefin Sans', sans-serif;    
-    color: #6B6B6B;
-}
-
 ul.thumbs li.content h3 {
     display: inline-block;
     font-family: 'Josefin Sans', sans-serif;
@@ -297,8 +289,10 @@ ul.thumbs li.content .media img {
 }
                 
 ul.thumbs li.content p {
-    line-height: 20px; 
-    color: #999;    
+    line-height: 25px; 
+    color: #491F27;    
+    font-size: 18px;
+    text-align: justify;
 }
 
 ul.thumbs li.content .galeria {
@@ -306,3 +300,15 @@ ul.thumbs li.content .galeria {
     text-align: center;    
 }
 
+.galeria a.fancybox-effects-a img, .galeria a.fancybox-effects-b img, .galeria a.fancybox-effects-c img, .galeria a.fancybox-effects-d img, .galeria a.fancybox-buttons img, .galeria a.fancybox-thumbs img {
+    margin-bottom: 2px;
+    border: 1px solid #000;    
+}
+
+ul.thumbs li.content h1{
+    margin-bottom: 25px;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;    
+    color: #491F27;
+}

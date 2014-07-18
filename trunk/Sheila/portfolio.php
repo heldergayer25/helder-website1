@@ -12,9 +12,7 @@ and open the template in the editor.
     </head>
     <body>                
         <?php include'./cabecalho.php'?>       
-        <div id="section_home"></div>   
-        <?php $breadcrumb = new breadcrumb;
-echo $breadcrumb->show_breadcrumb();?>
+        <div id="section_home"></div>           
             <section>     
                 <ul class="thumbs">
                     <li>

@@ -37,4 +37,3 @@
 <script src="js/fontes/Josefin_Sans_Semi_Bold_600.font (1).js" type="text/javascript"></script>
 <script src="js/fontes/Indie_Flower_400.font.js" type="text/javascript"></script>
 
-<?php include 'class.breadcrumb.inc.php';
