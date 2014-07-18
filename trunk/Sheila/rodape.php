@@ -1,6 +1,6 @@
 <footer>
     <div class="wrapper">
-        <address>Sheila Cristina Alves de Arruda - Designer de Moda<br/>Curitiba - PR | Tel.: +55 41 3286-1032 | Cel.: +55 41 9781-2413</address>       
+        <address>Sheila Cristina Alves de Arruda - Designer de Moda<br/>Curitiba - PR</address>       
         
         <div id="assinatura_rodape"></div>
         
