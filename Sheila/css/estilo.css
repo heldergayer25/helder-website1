@@ -55,14 +55,11 @@ header h1 a { background: url(../imagens/home3.png) left no-repeat; display: blo
 header nav#redes { clear: both; float: right; }
 header nav#redes ul li { float: right; }
 header nav#redes ul li a { display:block; width:40px; height:40px; text-indent:-99999px; margin-top: -60px; }
-header nav#redes ul li a#instagram { background: url(../imagens/icone_instagram.png) no-repeat; margin-right: 150px; }                
-header nav#redes ul li a#instagram:hover { background: url(../imagens/icone_instagram_hover.png) no-repeat; margin-right: 150px; }                
+header nav#redes ul li a#instagram { background: url(../imagens/icone_instagram.png) no-repeat; margin-right: 150px; }                              
 header nav#redes ul li a#twitter { background: url(../imagens/icone_twitter.png) no-repeat; margin-right: 100px;}
-header nav#redes ul li a#twitter:hover { background: url(../imagens/icone_twitter_hover.png) no-repeat; margin-right: 100px;}
 header nav#redes ul li a#youtube { background: url(../imagens/icone_youtube.png) no-repeat; margin-right: 50px; }
-header nav#redes ul li a#youtube:hover { background: url(../imagens/icone_youtube_hover.png) no-repeat; margin-right: 50px; }
 header nav#redes ul li a#facebook { background: url(../imagens/icone_facebook.png) no-repeat; margin-right: 0px; }
-header nav#redes ul li a#facebook:hover { background: url(../imagens/icone_facebook_hover.png) no-repeat; margin-right: 0px; }
+header nav#redes ul li a#instagram:hover, header nav#redes ul li a#twitter:hover, header nav#redes ul li a#youtube:hover, header nav#redes ul li a#facebook:hover { opacity: 0.6; }                
 
 header nav#menu { position: relative; float: right; margin-right: 80px; margin-top: -150px;}
 header nav#menu ul li { float: left; margin-right: 15px; background: url(../imagens/caveira.png) right no-repeat; width: 92px; height: 120px; }
