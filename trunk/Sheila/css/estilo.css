@@ -1,17 +1,17 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic);
+
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
-*/
-/* 
+
     Created on : 20/02/2014, 15:25:07
     Author     : HELDER
-*/
 
-/*  Diretivas gerais */
-@charset "utf-8";
 
-@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic);
+  Diretivas gerais */
+
 
 /*  Reset CSS */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, font, img, ins, kbd, q, s, samp, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption	{ margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent; }
@@ -34,24 +34,24 @@ header, nav, footer, section, article, aside { display:block; font-family:Arial,
 .imgRight { float:right; margin-left:40px; }
 .imgLeft, .imgRight { margin-bottom:30px; }
 
-/*	CSS Sprite */	
-//header h1 a, header h2, footer .logoGPA a{ background:url(../imagem/sprite.png) no-repeat; display:block; }
-//header h1 a, header h2, footer .logoGPA a { text-indent:-99999px; }
-// header h1 a { background: url(../imagens/sprite.png) no-repeat; display: block; }
-//header h1 a { text-indent: -99999px; }
+/*	CSS Sprite 	
+header h1 a, header h2, footer .logoGPA a{ background:url(../imagem/sprite.png) no-repeat; display:block; }
+header h1 a, header h2, footer .logoGPA a { text-indent:-99999px; }
+ header h1 a { background: url(../imagens/sprite.png) no-repeat; display: block; }
+header h1 a { text-indent: -99999px; }*/
 
 
 /*	Body */
 body { border-top:40px solid #000; background: url(../imagens/fundo_mao.png) 0px 60px; }
 
 
-/*	Header */
-
-div#section_home { background: #E9556A url(../imagens/linha_maos_superior.png) center no-repeat; width: 100%; height: 40px; }                                
+/*	Header 
+div#section_home { background: #E9556A url(../imagens/linha_maos_superior.png) center no-repeat; width: 100%; height: 40px; } */                               
+.section_home { background: #E9556A url(../imagens/linha_maos_superior.png) center no-repeat; width: 100%; height: 40px; }                                
 header h1 { text-indent: -99999px; }
-//header h1#titulo { background: url(../imagens/titulo.png) right no-repeat; width: 677px; height: 332px; }
-header h1 a { background: url(../imagens/home3.png) left no-repeat; display: block; width: 981px; height: 524px; margin-top: 20px; margin-left: 20px;}
-//header h1 a#titulo { background: url(../imagens/titulo.png) right no-repeat; display: block; width: 600px; height: 332px; margin-top: 125px; float: right;}
+/*header h1#titulo { background: url(../imagens/titulo.png) right no-repeat; width: 677px; height: 332px; }*/
+header h1 a { background: url(../imagens/home3.png) left no-repeat; display: block; width: 981px; height: 524px; margin-top: 20px; margin-left: 20px; text-indent:-99999px;}
+/*header h1 a#titulo { background: url(../imagens/titulo.png) right no-repeat; display: block; width: 600px; height: 332px; margin-top: 125px; float: right;}*/
 header nav#redes { clear: both; float: right; }
 header nav#redes ul li { float: right; }
 header nav#redes ul li a { display:block; width:40px; height:40px; text-indent:-99999px; margin-top: -60px; }
@@ -82,8 +82,7 @@ form#formContato label { float: left; }
 form#formContato input[type = text] { float: right; }
 form#formContato select { float: left; }
 form#formContato textarea { float: right; }
-//form#contato fieldset input[type=text] {float: left; }
-
+/*form#contato fieldset input[type=text] {float: left; }*/
 
 /*	Footer */       
 
@@ -91,7 +90,7 @@ footer { background-color: /*#E9556A*/ #000; padding-top: 35px; margin-bottom: 0
 footer address { font-size: 12px; color: #FFF; line-height: 20px; clear: both;  padding-top: 10px; margin-left: 20px;}
 footer div#assinatura_rodape { background: url(../imagens/assinatura_rodape.png) right no-repeat; height: 41px; width: 180px; float: right; margin-top: -60px; margin-right: 70px;}
 footer p { font-size: 12px; color: #FFF; float: right; margin-right: 60px; margin-top: -15px; }
-//footer div { background: #E9556A url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; }
+/*footer div { background: #E9556A url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; }*/
 footer div#cartoon_rodape { background: url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; float: right; margin-right: 20px; margin-top: -59px;}
 
 /*      Portifólio*/

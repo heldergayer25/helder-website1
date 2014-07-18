@@ -12,8 +12,9 @@ and open the template in the editor.
     </head>
     <body>                
         <?php include'./cabecalho.php'?>       
-        <div id="section_home"></div>        
+        <div class="section_home"></div>        
             <section class="wrapper">  
+                <!--<h2>Contato</h2>-->
                 <div class="texto">
                     <p>Se está interessado(a) no meu trabalho ou tem dúvidas, sinta-se à vontade para me contactar, través do formulário abaixo:</p>
                     <form action="" id="formContato" name="formContato" method="post">
@@ -36,7 +37,7 @@ and open the template in the editor.
                 </form>
                 </div> 
             </section>        
-        <div id="section_home"></div>
+        <div class="section_home"></div>
         <?php include './rodape.php';?>
     </body>
 </html>
