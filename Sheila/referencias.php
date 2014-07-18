@@ -31,9 +31,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="imagens/favicon-caveira.png" />
 
 <!-- Fontes -->
-<script src="js/fontes/Daisy_Script_400.font.js" type="text/javascript"></script>
-<script src="js/fontes/Open_Sans_400.font.js" type="text/javascript"></script>
-<script src="js/fontes/Josefin_Sans_400.font.js" type="text/javascript"></script>
-<script src="js/fontes/Josefin_Sans_Semi_Bold_600.font (1).js" type="text/javascript"></script>
-<script src="js/fontes/Indie_Flower_400.font.js" type="text/javascript"></script>
+<script src="js/fontes/Daisy-Script-400.font.js" type="text/javascript"></script>
+<script src="js/fontes/Open-Sans-400.font.js" type="text/javascript"></script>
+<script src="js/fontes/Josefin-Sans-400.font.js" type="text/javascript"></script>
+<script src="js/fontes/Josefin-Sans-Semi-Bold-600.font.js" type="text/javascript"></script>
+<script src="js/fontes/Indie-Flower-400.font.js" type="text/javascript"></script>
 

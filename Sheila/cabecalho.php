@@ -3,11 +3,11 @@
         <ul>
             <li><a href="http://instagram.com/" title="Instagram" id="instagram" target="_blank">Instagram</a></li>
             <li><a href="https://twitter.com/" title="Twitter" id="twitter" target="_blank">Twitter</a></li>
-            <li><a href="http://www.youtube.com/?gl=BR&hl=pt" title="YouTube" id="youtube" target="_blank">YouTube</a></li>
+            <li><a href="http://www.youtube.com/" title="YouTube" id="youtube" target="_blank">YouTube</a></li>
             <li><a href="https://www.facebook.com/" title="Facebook" id="facebook" target="_blank">Facebook</a></li>
         </ul>
     </nav>        
-    <h1><a href="index.php" title="Desenhando Moda"></a></h1>        
+    <h1><a href="index.php" title="Desenhando Moda">Desenhando moda</a></h1>        
     <nav id="menu">
         <ul>
             <li><a href="#" title="Home" id="home">Home</a></li>

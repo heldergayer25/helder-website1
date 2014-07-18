@@ -12,8 +12,9 @@ and open the template in the editor.
     </head>
     <body>                
         <?php include'./cabecalho.php'?>       
-        <div id="section_home"></div>           
+        <div class="section_home"></div>           
             <section>     
+                <!--<h2>Portfólio</h2>-->
                 <ul class="thumbs">
                     <li>
                         <a href="#thumb1" class="thumbnail" style="background-image: url('imagens/portfolio/capa/croqui.jpg')">
@@ -120,7 +121,7 @@ and open the template in the editor.
                     </div>
                 </div>
             </section>           
-        <div id="section_home"></div>
+        <div class="section_home"></div>
         <?php include './rodape.php';?>
     </body>
 </html>
