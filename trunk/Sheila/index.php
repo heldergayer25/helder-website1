@@ -12,9 +12,8 @@ and open the template in the editor.
     </head>
     <body>                
         <?php include'./cabecalho.php'?>       
-        <div class="section_home"></div>        
-            <section class="wrapper">   
-                <!--<h2>Conteúdo</h2>-->
+        <div id="section_home"></div>        
+            <section class="wrapper">     
                 <div class="texto">
                     <article>
                         <h3>Título</h3>
@@ -27,7 +26,7 @@ and open the template in the editor.
                 </div>
                 <div class="clear"></div>
             </section>        
-        <div class="section_home"></div>
+        <div id="section_home"></div>
         <?php include './rodape.php';?>
     </body>
 </html>

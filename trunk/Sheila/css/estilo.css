@@ -1,314 +1,88 @@
-@charset "utf-8";
-@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic);
-
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
-
+*/
+/* 
     Created on : 20/02/2014, 15:25:07
     Author     : HELDER
+*/
 
+/*  Diretivas gerais */
+		@charset "utf-8";
+		
+	/*  Reset CSS */
+		html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, font, img, ins, kbd, q, s, samp, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption	{ margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent; }
+		body { line-height:1; }
+		ol, ul { list-style:none; }
+		blockquote, q {	quotes:none; }
+		:focus { outline:0; }
+		ins { text-decoration:none; }
+		del { text-decoration:line-through; }
+		
+	/*	HTML5 */
+		header, nav, footer, section, article, aside { display:block; font-family:Arial, Helvetica, sans-serif; }
+		
+	/*  Classes de uso comum */
+		.wrapper { width:1000px; margin:0 auto; padding:0 0px; }
+		.clear { clear:both; }
+		.left { float:left; }
+		.right { float:right; }
+		.imgLeft { float:left; margin-right:40px; }
+		.imgRight { float:right; margin-left:40px; }
+		.imgLeft, .imgRight { margin-bottom:30px; }
 
-  Diretivas gerais */
-
-
-/*  Reset CSS */
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, font, img, ins, kbd, q, s, samp, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption	{ margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent; }
-body { line-height:1; }
-ol, ul { list-style:none; }
-blockquote, q {	quotes:none; }
-:focus { outline:0; }
-ins { text-decoration:none; }
-del { text-decoration:line-through; }
-
-/*	HTML5 */
-header, nav, footer, section, article, aside { display:block; font-family:Arial, Helvetica, sans-serif; }
-
-/*  Classes de uso comum */
-.wrapper { width:1000px; margin:0 auto; padding:0 0px; font-family: 'Josefin Sans', sans-serif; }
-.clear { clear:both; }
-.left { float:left; }
-.right { float:right; }
-.imgLeft { float:left; margin-right:40px; }
-.imgRight { float:right; margin-left:40px; }
-.imgLeft, .imgRight { margin-bottom:30px; }
-
-/*	CSS Sprite 	
-header h1 a, header h2, footer .logoGPA a{ background:url(../imagem/sprite.png) no-repeat; display:block; }
-header h1 a, header h2, footer .logoGPA a { text-indent:-99999px; }
- header h1 a { background: url(../imagens/sprite.png) no-repeat; display: block; }
-header h1 a { text-indent: -99999px; }*/
-
-
-/*	Body */
-body { border-top:40px solid #000; background: url(../imagens/fundo_mao.png) 0px 60px; }
-
-
-/*	Header 
-div#section_home { background: #E9556A url(../imagens/linha_maos_superior.png) center no-repeat; width: 100%; height: 40px; } */                               
-.section_home { background: #E9556A url(../imagens/linha_maos_superior.png) center no-repeat; width: 100%; height: 40px; }                                
-header h1 { text-indent: -99999px; }
-/*header h1#titulo { background: url(../imagens/titulo.png) right no-repeat; width: 677px; height: 332px; }*/
-header h1 a { background: url(../imagens/home3.png) left no-repeat; display: block; width: 981px; height: 524px; margin-top: 20px; margin-left: 20px; text-indent:-99999px;}
-/*header h1 a#titulo { background: url(../imagens/titulo.png) right no-repeat; display: block; width: 600px; height: 332px; margin-top: 125px; float: right;}*/
-header nav#redes { clear: both; float: right; }
-header nav#redes ul li { float: right; }
-header nav#redes ul li a { display:block; width:40px; height:40px; text-indent:-99999px; margin-top: -60px; }
-header nav#redes ul li a#instagram { background: url(../imagens/icone_instagram.png) no-repeat; margin-right: 150px; }                              
-header nav#redes ul li a#twitter { background: url(../imagens/icone_twitter.png) no-repeat; margin-right: 100px;}
-header nav#redes ul li a#youtube { background: url(../imagens/icone_youtube.png) no-repeat; margin-right: 50px; }
-header nav#redes ul li a#facebook { background: url(../imagens/icone_facebook.png) no-repeat; margin-right: 0px; }
-header nav#redes ul li a#instagram:hover, header nav#redes ul li a#twitter:hover, header nav#redes ul li a#youtube:hover, header nav#redes ul li a#facebook:hover { opacity: 0.6; }                
-
-header nav#menu { position: relative; float: right; margin-right: 80px; margin-top: -150px;}
-header nav#menu ul li { float: left; margin-right: 15px; background: url(../imagens/caveira.png) right no-repeat; width: 92px; height: 120px; }
-header nav#menu ul li a { text-decoration: none; margin-top: 47px; position: absolute; font-size: 27px; color: #000; /*text-indent: -99999px;*/ }
-header nav#menu ul li a#home { margin-left: 15px; }                                
-header nav#menu ul li a#perfil { margin-left: 15px;}                
-header nav#menu ul li a#loja { margin-left: 25px;}                
-header nav#menu ul li a#portfolio { margin-left: 4px; font-size: 24px; margin-top: 50px;}                
-header nav#menu ul li a#contato { margin-left: 7px; font-size: 25px; margin-top: 50px;}                
-header nav#menu ul li a#anuncie { margin-left: 7px; font-size: 25px; margin-top: 50px;}
-
-section.wrapper { margin-top: 40px; margin-bottom: 20px; }         
-section.wrapper div.texto article { float: left; width: 470px;  text-align: justify; margin-left: 25px;}
-section.wrapper div.texto article h3 { font-size: 20px; font-weight: bold;  }
-
-/*      Formulário Contato*/
-
-form#formContato { display: block; width: 500px; clear: both; }
-form#formContato label { float: left; }
-form#formContato input[type = text] { float: right; }
-form#formContato select { float: left; }
-form#formContato textarea { float: right; }
-/*form#contato fieldset input[type=text] {float: left; }*/
-
+/*	CSS Sprite */	
+		//header h1 a, header h2, footer .logoGPA a{ background:url(../imagem/sprite.png) no-repeat; display:block; }
+		//header h1 a, header h2, footer .logoGPA a { text-indent:-99999px; }
+               // header h1 a { background: url(../imagens/sprite.png) no-repeat; display: block; }
+                //header h1 a { text-indent: -99999px; }
+                
+                
+                /*	Body */
+		body { border-top:60px solid #000; background: url(../imagens/fundo_mao.png) 0px 60px; }
+                
+                
+/*	Header */
+                
+                div#section_home { background: #E9556A url(../imagens/linha_maos_superior.png) center no-repeat; width: 100%; height: 50px; }                                
+                header h1 { text-indent: -99999px; }
+                header h1#titulo { background: url(../imagens/titulo.png) right no-repeat; width: 677px; height: 332px; }
+                header h1 a { background: url(../imagens/home.png) left no-repeat; display: block; width: 981px; height: 603px; margin-top: 60px; margin-left: 20px;}
+                //header h1 a#titulo { background: url(../imagens/titulo.png) right no-repeat; display: block; width: 600px; height: 332px; margin-top: 125px; float: right;}
+                header nav#redes { clear: both; float: right; }
+                header nav#redes ul li { float: right; }
+                header nav#redes ul li a { display:block; width:40px; height:40px; text-indent:-99999px; margin-top: -109px; }
+                header nav#redes ul li a#instagram { background: url(../imagens/icone_instagram.png) no-repeat; margin-right: 150px; }                
+                header nav#redes ul li a#instagram:hover { background: url(../imagens/icone_instagram_hover.png) no-repeat; margin-right: 150px; }                
+                header nav#redes ul li a#twitter { background: url(../imagens/icone_twitter.png) no-repeat; margin-right: 100px;}
+                header nav#redes ul li a#twitter:hover { background: url(../imagens/icone_twitter_hover.png) no-repeat; margin-right: 100px;}
+                header nav#redes ul li a#youtube { background: url(../imagens/icone_youtube.png) no-repeat; margin-right: 50px; }
+                header nav#redes ul li a#youtube:hover { background: url(../imagens/icone_youtube_hover.png) no-repeat; margin-right: 50px; }
+                header nav#redes ul li a#facebook { background: url(../imagens/icone_facebook.png) no-repeat; margin-right: 0px; }
+                header nav#redes ul li a#facebook:hover { background: url(../imagens/icone_facebook_hover.png) no-repeat; margin-right: 0px; }
+                
+                header nav#menu { position: relative; float: right; margin-right: 0px; margin-top: -200px;}
+                header nav#menu ul li { float: left; margin-right: 15px; background: url(../imagens/caveira.png) right no-repeat; width: 92px; height: 120px; }
+                header nav#menu ul li a { text-decoration: none; margin-top: 43px; position: absolute; font-size: 40px; text-indent: -99999px; }
+                header nav#menu ul li a#home { background: url(../imagens/menu_home.png) right no-repeat; width: 68px; height: 43px; margin-left: 13px; }                
+                header nav#menu ul li a#perfil { background: url(../imagens/menu_perfil.png) right no-repeat; width: 81px; height: 41px; margin-left: 5px;}
+                header nav#menu ul li a#loja { background: url(../imagens/menu_loja.png) right no-repeat; width: 61px; height: 45px; margin-left: 17px;}
+                header nav#menu ul li a#portfolio { background: url(../imagens/menu_portfolio.png) right no-repeat; width: 85px; height: 34px; margin-left: 4px;}
+                header nav#menu ul li a#contato { background: url(../imagens/menu_contato.png) right no-repeat; width: 80px; height: 27px; margin-left: 7px;}
+                header nav#menu ul li a#anuncie { background: url(../imagens/menu_anuncie.png) right no-repeat; width: 88px; height: 32px; margin-left: 4px;}
+                
+                section.wrapper { margin-top: 40px; margin-bottom: 20px; }         
+                section.wrapper div.texto article { float: left; width: 470px;  text-align: justify; margin-left: 25px;}
+                section.wrapper div.texto article h3 { font-size: 20px; font-weight: bold;  }
+                
+                
+                
 /*	Footer */       
-
-footer { background-color: /*#E9556A*/ #000; padding-top: 35px; margin-bottom: 0px; }                
-footer address { font-size: 12px; color: #FFF; line-height: 20px; clear: both;  padding-top: 10px; margin-left: 20px;}
-footer div#assinatura_rodape { background: url(../imagens/assinatura_rodape.png) right no-repeat; height: 41px; width: 180px; float: right; margin-top: -60px; margin-right: 70px;}
-footer p { font-size: 12px; color: #FFF; float: right; margin-right: 60px; margin-top: -15px; }
-/*footer div { background: #E9556A url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; }*/
-footer div#cartoon_rodape { background: url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; float: right; margin-right: 20px; margin-top: -59px;}
-
-/*      Portifólio*/
-
-ul.thumbs {
-    padding: 0;
-    margin: 0;
-    overflow: hidden;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-ul.thumbs li {
-    display: inline-block;
-    height: 200px;
-    overflow: hidden;
-    padding: 0;
-    float: left;
-    position: relative;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-ul.thumbs li a.thumbnail {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #cecece;
-    background-position-x: 50%;
-    display: block;	
-    box-sizing: border-box;
-    transition: opacity 0.3s;
-    -webkit-transition: opacity 0.3s;
-    -moz-transition: opacity 0.3s;
-    z-index: 9;
-    width: 100%;
-    height: 100%;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-ul.thumbs li a.thumbnail h4 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding: 7px 10px;
-    text-transform: uppercase;
-    background-color: #efefef;
-    color: #6b6b6b;
-    font-size: 14px;
-    margin: 0;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-ul.thumbs li a.thumbnail .description {
-    padding: 0;
-    position: absolute;
-    height: 0;
-    bottom: 0;
-    width: 100%;
-    box-sizing: inherit;
-    opacity: 0;
-    transition: all 0.5s ease;
-    -webkit-transition: all 0.5s ease;
-    -moz-transition: all 0.5s ease;
-    //color: #333333;
-    color: #FFF;
-    //background-color: rgba(255, 255, 255, 0.7);
-    background-color: rgba(0, 0, 0, 0.7);
-    font-size: 18px;
-    padding: 18px 12px;
-    line-height: 10px;
-    box-sizing: inherit;
-    text-align: center;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-ul.thumbs li a.thumbnail .active-arrow {
-    width: 0;
-    height: 0;
-    border-left: 25px solid transparent;
-    border-right: 25px solid transparent;
-    border-bottom: 25px solid #fff;
-    bottom: -2px;
-    z-index: 99;
-    position: absolute;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-@media (max-width: 970px)  {
-    ul.thumbs li {
-        width: 50% !important;
-    }
-    .media iframe{
-        width: 100%;
-    }
-}
-
-@media (max-width: 1200px) and (min-width: 970px) {
-    ul.thumbs li {
-        width: 33.3333% !important;
-        font-family: 'Josefin Sans', sans-serif;
-    }
-}
-
-ul.thumbs li a.thumbnail:hover .description {
-    height: 50px;
-    opacity: 1;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-ul.thumbs li.content {
-    width: 100% !important;
-    display: none;
-    margin-bottom: 40px;
-    background: none;
-    float: left;
-    //height: 250px;
-    height: 100%;
-    position: relative;
-    padding: 45px 0 45px;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-ul.thumbs li.content h3 {
-    display: inline-block;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-ul.thumbs li.content .close {
-    position: absolute;
-    top: 0;
-    right: 0;
-    color: #c2c2c2;
-    cursor: pointer;
-    font-weight: normal;
-    font-family: -webkit-pictograph;
-    font-size: 76px;
-    line-height: 70px;    
-}
-
-ul.thumbs li.content .close:hover {
-    opacity: 0.7;    
-}
-
-ul.thumbs li.content .media {
-    display: inline-block;
-    float: left;
-    margin-right: 20px;
-    width: 50%;
-    min-height: 200px;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-ul.thumbs li.content .media img {
-    max-width: 100%;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-@media (max-width: 1080px) {
-    .close {
-        right: 0 !important;
-        top: 7px !important;
-    }
-    ul.thumbs .media {
-        margin-right: 0;
-        margin-bottom: 20px;
-    }
-}
-@media (max-width: 590px) {
-    ul.thumbs li {
-        width: 100% !important;
-    }
-    ul.thumbs .media {
-        display: none !important;
-    }
-}
-@media (max-width: 700px) and (min-width: 590px) {
-    ul.thumbs .media {
-        width: 100% !important;
-        display: block !important;
-        margin-top: 60px;
-    }
-}
-
-.portfolio-content {
-    display: none;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-.fancybox-custom .fancybox-skin {
-    box-shadow: 0 0 50px #222;
-}
-
-ul.thumbs li.content p {
-    line-height: 25px; 
-    color: #491F27;    
-    font-size: 18px;
-    text-align: justify;
-}
-
-ul.thumbs li.content .galeria {
-    margin-top: 35px;   
-    text-align: center;    
-}
-
-.galeria a.fancybox-effects-a img, .galeria a.fancybox-effects-b img, .galeria a.fancybox-effects-c img, .galeria a.fancybox-effects-d img, .galeria a.fancybox-buttons img, .galeria a.fancybox-thumbs img {
-    margin-bottom: 2px;
-    border: 1px solid #000;      
-}
-
-.galeria a.fancybox-effects-a img:hover, .galeria a.fancybox-effects-b img:hover, .galeria a.fancybox-effects-c img:hover, .galeria a.fancybox-effects-d img:hover, .galeria a.fancybox-buttons img:hover, .galeria a.fancybox-thumbs img:hover {
-    opacity: 0.8;
-}
-
-ul.thumbs li.content h1{
-    margin-bottom: 25px;
-    font-size: 48px;
-    font-weight: 700;
-    font-family: 'Josefin Sans', sans-serif;    
-    color: #491F27;
-}
+              
+                footer { background-color: #E9556A; padding-top: 35px; margin-bottom: 0px; }                
+                footer address { font-size: 14px; color: #FFF; line-height: 20px; clear: both;  padding-top: 10px; margin-left: 20px;}
+                footer div#assinatura_rodape { background: url(../imagens/assinatura_rodape.png) right no-repeat; height: 41px; width: 180px; float: right; margin-top: -60px; margin-right: 70px;}
+                footer p { font-size: 12px; color: #FFF; float: right; margin-right: 60px; margin-top: -15px; }
+                //footer div { background: #E9556A url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; }
+                footer div#cartoon_rodape { background: #E9556A url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; float: right; margin-right: 20px; margin-top: -59px;}
