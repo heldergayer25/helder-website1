@@ -246,7 +246,7 @@ ul.thumbs li.content .media {
 }
 
 ul.thumbs li.content .media img {
-    max-width: 100%;
+    max-width: 100%;    
     font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -290,6 +290,7 @@ ul.thumbs li.content p {
     color: #491F27;    
     font-size: 18px;
     text-align: justify;
+    font-weight: 700;
 }
 
 ul.thumbs li.content .galeria {
