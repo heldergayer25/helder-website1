@@ -294,7 +294,7 @@ ul.thumbs li.content p {
 }
 
 ul.thumbs li.content .galeria {
-    margin-top: 35px;   
+    margin-top: 80px;   
     text-align: center;    
 }
 
@@ -308,7 +308,7 @@ ul.thumbs li.content .galeria {
 }
 
 ul.thumbs li.content h1{
-    margin-bottom: 25px;
+    
     font-size: 48px;
     font-weight: 700;
     font-family: 'Josefin Sans', sans-serif;    
