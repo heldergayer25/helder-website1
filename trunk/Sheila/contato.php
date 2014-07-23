@@ -16,18 +16,19 @@ and open the template in the editor.
             <section class="wrapper">  
                 <div class="texto">
                     <p>Se está interessado(a) no meu trabalho ou tem dúvidas, sinta-se à vontade para me contactar, través do formulário abaixo:</p>
-                    <form action="" id="formContato" name="formContato" method="post">
+                    <form action="sistema/phpmailer/email.php" id="formContato" name="formContato" method="post">
                     <fieldset>
                         <legend>Contato</legend>
-                        <label for="txNome">Nome: <input id="txNome" name="txNome" type="text" size="30"/></label>
-                        <label for="txEmail">E-mail: <input id="txEmail" name="txEmail" type="text" size="30"/></label>
-                        <label for="txTelefone">Telefone: <input id="txTelefone" name="txTelefone" type="text" size="30"/></label>
+                        <label for="txNome">Nome: <input id="txNome" name="txNome" type="text" /></label>
+                        <label for="txEmail">E-mail: <input id="txEmail" name="txEmail" type="text" /></label>
+                        <label for="txTelefone">Telefone: <input id="txTelefone" name="txTelefone" type="text" /></label>
+                        <br/>                        
                         <label id="slAssunto">
                             Assunto:
                             <select id="slAssunto" name="slAssunto">
-                                <option value="...">...<option/>
-                                <option value="Orçamento">Orçamento<option/>
-                                <option value="Dúvidas">Dúvidas<option/>
+                                <option value="...">...</option>
+                                <option value="Orçamento">Orçamento</option>
+                                <option value="Dúvidas">Dúvidas</option>
                             </select>
                         </label>
                         <label for="txDescricao">Descrição: <textarea id="txDescricao" name="txDescricao" type="textarea" cols="22" rows="7"></textarea></label>
