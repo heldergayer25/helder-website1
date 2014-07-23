@@ -46,30 +46,30 @@ and open the template in the editor.
                             <h1>Croquis</h1>
                             <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis nisi sit amet metus venenatis, ut congue turpis aliquet. Pellentesque eget elit sollicitudin, feugiat felis in, ornare diam. Morbi blandit sapien nibh, eu pulvinar tortor luctus nec. Aenean lobortis lacus cursus gravida adipiscing. Praesent in odio porta, placerat felis id, viverra est. Nam magna quam, tincidunt eget augue in, aliquet tristique ipsum.</p>-->
                             <p class="galeria">
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                                <a class="fancybox-effects-a" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                                <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
                             </p>                                                
                             <!--<a href="#" class="btn btn-primary">Learn More</a>-->
                     </div>   
@@ -86,36 +86,36 @@ and open the template in the editor.
                         <h1>Estampas</h1>
                         <!--<p>Suspendisse cursus commodo elit, at tempus felis hendrerit vel. Cras condimentum aliquam mauris at blandit. Pellentesque ac velit iaculis, lobortis nibh id, ultricies ante. Fusce vel urna justo. Maecenas rhoncus vel ligula eget feugiat. Maecenas blandit risus eros, vel imperdiet augue dapibus vitae.</p>                        -->
                         <p class="galeria">
-                            <a class="fancybox-effects-d" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                            <a class="fancybox-effects-d" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                            <a class="fancybox-effects-d" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
                         </p>  
                     </div>
                     <div id="thumb4">                        
                         <h1>Material Gráfico</h1>
                         <!--<p>Vestibulum gravida, ante ut consectetur dictum, dolor sapien pretium elit, sed tincidunt augue sem a lorem. Vivamus quis neque pharetra, consequat dolor vel, venenatis urna. Praesent diam quam, fermentum vel tortor eget, pulvinar tincidunt velit.</p>                        -->
                         <p class="galeria">
-                            <a class="fancybox-thumbs" href="imagens/portfolio/original/01.jpg" data-fancybox-group="thumb" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                            <a class="fancybox-thumbs" href="imagens/portfolio/original/02.jpg" data-fancybox-group="thumb" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                            <a class="fancybox-thumbs" href="imagens/portfolio/original/03.jpg" data-fancybox-group="thumb" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
                         </p>  
                     </div>
                     <div id="thumb5">                        
                         <h1>Infográfico</h1>
                         <!--<p>Vestibulum gravida, ante ut consectetur dictum, dolor sapien pretium elit, sed tincidunt augue sem a lorem. Vivamus quis neque pharetra, consequat dolor vel, venenatis urna. Praesent diam quam, fermentum vel tortor eget, pulvinar tincidunt velit.</p>                        -->
                         <p class="galeria">
-                            <a class="fancybox-buttons" href="imagens/portfolio/original/01.jpg" data-fancybox-group="button" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                            <a class="fancybox-buttons" href="imagens/portfolio/original/02.jpg" data-fancybox-group="button" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                            <a class="fancybox-buttons" href="imagens/portfolio/original/03.jpg" data-fancybox-group="button" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
                         </p>  
                     </div>   
                     <div id="thumb6">                        
                         <h1>Cartões</h1>
                         <!--<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Integer a posuere tortor. Praesent malesuada mauris massa, non blandit neque tempus nec. Quisque fermentum nunc non hendrerit tempus.</p>-->
                         <p class="galeria">
-                            <a class="fancybox-effects-b" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                            <a class="fancybox-effects-b" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                            <a class="fancybox-effects-b" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
                         </p>  
                     </div>
                 </div>
