@@ -77,11 +77,11 @@ section.wrapper div.texto article h3 { font-size: 20px; font-weight: bold;  }
 
 /*      Formulário Contato*/
 
-form#formContato { display: block; width: 500px; clear: both; }
+form#formContato { width: 300px; }
 form#formContato label { float: left; }
-form#formContato input[type = text] { float: right; }
-form#formContato select { float: left; }
-form#formContato textarea { float: right; }
+form#formContato input[type = text] { float: right; width: 200px; }
+form#formContato select { float: right; width: 200px; }
+form#formContato textarea { float: right; width: 200px; }
 //form#contato fieldset input[type=text] {float: left; }
 
 
