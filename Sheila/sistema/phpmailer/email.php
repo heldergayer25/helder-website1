@@ -32,7 +32,7 @@ $mail->FromName = "Desenhando Moda"; // Seu nome
 $mail->AddAddress($email);
 //$mail->AddAddress('ciclano@site.net');
 $mail->AddCC('helder@helderwebergayer.url.ph', 'Desenhando Moda'); // Copia
-//$mail->AddBCC('shejapa@hotmail.com', 'Desenhando Moda'); // Cópia Oculta
+$mail->AddBCC('shejapa@hotmail.com', 'Desenhando Moda'); // Cópia Oculta
 // Define os dados técnicos da Mensagem
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 $mail->IsHTML(true); // Define que o e-mail será enviado como HTML

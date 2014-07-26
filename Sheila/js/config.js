@@ -19,9 +19,19 @@
                 Cufon('div.texto h3', { fontFamily: 'Josefin Sans Semi Bold'});   
                 Cufon('header nav#menu ul li a', { hover: {color: '#E9556A'},fontFamily: 'Indie Flower'}); 
             
+            
+            //.galeria a.fancybox-effects-c img
                 // * Para a Home, quando tÃªm mais de 3 colunas de articles, tira a margin-right!
 		$("header nav#menu ul li").each(function(index){
 			var multiploTres = (index+1) % 6;
+			if(multiploTres == 0)
+			{
+				$(this).css("margin-right","0");
+			}
+		});
+                
+                $(".galeria a.fancybox-effects-a img, .galeria a.fancybox-effects-b img, .galeria a.fancybox-effects-c img, .galeria a.fancybox-effects-d img, .galeria a.fancybox-buttons img, .galeria a.fancybox-thumbs img").each(function(index){
+			var multiploTres = (index+1) % 4;
 			if(multiploTres == 0)
 			{
 				$(this).css("margin-right","0");
