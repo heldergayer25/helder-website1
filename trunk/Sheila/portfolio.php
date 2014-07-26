@@ -110,12 +110,13 @@ and open the template in the editor.
                         </p>  
                     </div>   
                     <div id="thumb6">                        
-                        <h1>Cartões</h1>
+                        <h1>Cartões Comemorativos</h1>
                         <!--<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Integer a posuere tortor. Praesent malesuada mauris massa, non blandit neque tempus nec. Quisque fermentum nunc non hendrerit tempus.</p>-->
                         <p class="galeria">
-                            <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
-                            <a class="fancybox-effects-c" href="imagens/portfolio/original/02.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/02.jpg" alt="" /></a>
-                            <a class="fancybox-effects-c" href="imagens/portfolio/original/03.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/03.jpg" alt="" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/cartoes-comemorativos/amostra.JPG" data-fancybox-group="gallery" title="Amostra"><img src="imagens/portfolio/thumbnail/cartoes-comemorativos/amostra.jpg" alt="Amostra" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/cartoes-comemorativos/56-amor-hotstamp-com-gliter.jpg" data-fancybox-group="gallery" title="Hotstamp com glíter"><img src="imagens/portfolio/thumbnail/cartoes-comemorativos/56-amor-hotstamp-com-gliter.jpg" alt="Hotstamp com glíter" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/cartoes-comemorativos/134-aniversario-hotstamp-com-gliter.jpg" data-fancybox-group="gallery" title="Hotstamp com glíter"><img src="imagens/portfolio/thumbnail/cartoes-comemorativos/134-aniversario-hotstamp-com-gliter.jpg" alt="Hotstamp com glíter" /></a>
+                            <a class="fancybox-effects-c" href="imagens/portfolio/original/cartoes-comemorativos/29-casamento-hotstamp-com-gliter.jpg" data-fancybox-group="gallery" title="Hotstamp com glíter"><img src="imagens/portfolio/thumbnail/cartoes-comemorativos/29-casamento-hotstamp-com-gliter.jpg" alt="Hotstamp com glíter" /></a>                                                        
                         </p>  
                     </div>
                 </div>
