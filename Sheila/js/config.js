@@ -15,8 +15,9 @@
                 
 		//Cufon('header nav#menu ul li a', { fontFamily: 'Daisy Script'});   
                 Cufon('footer address, footer p', { fontFamily: 'Open Sans'});   
-                Cufon('div.texto', { fontFamily: 'Josefin Sans'});   
-                Cufon('div.texto h3', { fontFamily: 'Josefin Sans Semi Bold'});   
+                //Cufon('div.texto', { fontFamily: 'Josefin Sans'});   
+                //Cufon('div.texto h3', { fontFamily: 'Josefin Sans Semi Bold'});   
+                 
                 Cufon('header nav#menu ul li a', { hover: {color: '#E9556A'},fontFamily: 'Indie Flower'}); 
             
             
