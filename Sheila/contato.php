@@ -17,12 +17,10 @@ and open the template in the editor.
                 <div class="texto">
                     <p>Se está interessado(a) no meu trabalho ou tem dúvidas, sinta-se à vontade para me contactar, través do formulário abaixo:</p>
                     <form action="sistema/phpmailer/email.php" id="formContato" name="formContato" method="post">
-                    <fieldset>
-                        <legend>Contato</legend>
+                    <fieldset>                        
                         <label for="txNome">Nome: <input id="txNome" name="txNome" type="text" /></label>
                         <label for="txEmail">E-mail: <input id="txEmail" name="txEmail" type="text" /></label>
-                        <label for="txTelefone">Telefone: <input id="txTelefone" name="txTelefone" type="text" /></label>
-                        <br/>                        
+                        <label for="txTelefone">Telefone: <input id="txTelefone" name="txTelefone" type="text" /></label>                                            
                         <label id="slAssunto">
                             Assunto:
                             <select id="slAssunto" name="slAssunto">
@@ -33,6 +31,7 @@ and open the template in the editor.
                         </label>
                         <label for="txDescricao">Descrição: <textarea id="txDescricao" name="txDescricao" type="textarea" cols="22" rows="7"></textarea></label>
                     </fieldset>
+                        <br/>                        
                     <input type="submit" id="sbEnviar" name="sbEnviar" value="Enviar" />                    
                 </form>
                 </div> 
