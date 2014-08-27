@@ -12,10 +12,25 @@
         //Fontes adicionadas 
 	$(function(){		
             
+            
+                $("formContato").validate({
+                    debug: true,
+                    rules: {
+                        txNome: {
+                            required: true
+                        }
+                    },
+                    messages:{
+                        txNome: {
+                            required: "O nome deve ser informado!"
+                        }
+                    }
+                });
+            
+            
+           
                 
-                var RecaptchaOptions = {
-                    theme : 'white'
-                };
+                
                 
 		//Cufon('header nav#menu ul li a', { fontFamily: 'Daisy Script'});   
                 Cufon('footer address, footer p', { fontFamily: 'Open Sans'});   
