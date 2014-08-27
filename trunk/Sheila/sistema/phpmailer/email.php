@@ -32,7 +32,7 @@ class email{
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         $mail->AddAddress($email);
         //$mail->AddAddress('ciclano@site.net');
-        //$mail->AddCC('heldergayer@hotmail.com', 'Desenhando Moda'); // Copia
+        $mail->AddCC('contato@desenhandomoda.com.br', 'Desenhando Moda'); // Copia
         //$mail->AddBCC('shejapa@hotmail.com', 'Desenhando Moda'); // Cópia Oculta
         // Define os dados técnicos da Mensagem
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

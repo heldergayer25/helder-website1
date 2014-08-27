@@ -24,7 +24,9 @@ and open the template in the editor.
         <div id="section_home"></div>        
             <section class="wrapper">  
                 <div class="texto">
+                    <h2>Contato</h2>
                     <p>Se está interessado(a) no meu trabalho ou tem dúvidas, sinta-se à vontade para me contactar, través do formulário abaixo:</p>
+                    <br/>
                     <form action="sistema/recaptcha/verificar.php" id="formContato" name="formContato" method="post">                                            
                         <fieldset>                        
                             <label for="txNome">Nome: <input id="txNome" name="txNome" type="text" /></label>
@@ -41,7 +43,7 @@ and open the template in the editor.
                             <label for="txDescricao">Descrição: <textarea id="txDescricao" name="txDescricao" type="textarea" cols="22" rows="7"></textarea></label>
                         </fieldset>                            
                     <div class="clear"></div>
-                    <br/>
+                    <br/>                    
                     <?php
                         require_once ('sistema/recaptcha/recaptchalib.php');
                         $publickey = "6LfjD_kSAAAAAA-BpQ5Wey8-T4K1HpH3iIP_1i1H";  // chave pública

@@ -14,6 +14,7 @@
 <script src="js/plugins/portfolio/gulpfile.js" type="text/javascript"></script>
 <script src="js/plugins/fancybox/jquery.mousewheel-3.0.6.pack.js" type="text/javascript"></script>
 <script src="js/plugins/fancybox/source/jquery.fancybox.js" type="text/javascript"></script>
+<script src="js/plugins/validation/jquery.validate.js" type="text/javascript"></script>
 
 <!-- Add Button helper (this is optional) -->
 <link rel="stylesheet" type="text/css" href="js/plugins/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" />
