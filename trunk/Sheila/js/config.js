@@ -6,31 +6,33 @@
  * @version 1.0
  */
         
-	//Funções executadas ao iniciar a página
-        
-        
-        //Fontes adicionadas 
+	//Funções executadas ao iniciar a página                       
 	$(function(){		
-            
-            
-                $("formContato").validate({
-                    debug: true,
-                    rules: {
-                        txNome: {
-                            required: true
-                        }
-                    },
-                    messages:{
-                        txNome: {
-                            required: "O nome deve ser informado!"
-                        }
-                    }
-                });
-            
-            
-           
-                
-                
+                        
+		//Validação dos campos do formulário de contato
+		$("#formContato").validate({
+			rules: {
+				txNome: "required",
+                                txEmail: {
+                                    required: true,
+                                    email: true
+                                },
+                                txTelefone: "required",
+                                slAssunto: "required",
+                                txDescricao: {
+                                    required:true,
+                                    minlength: 5
+                                }
+			},
+			messages: {
+				txNome: "Informe um nome para contato",
+                                txEmail: "Informe um e-mail válido",
+                                txTelefone: "Informe um telefone para contato",
+                                slAssunto: "Escolha um assunto",
+                                txDescricao: "Escreva uma mensagem"
+			}
+		});
+
                 
 		//Cufon('header nav#menu ul li a', { fontFamily: 'Daisy Script'});   
                 Cufon('footer address, footer p', { fontFamily: 'Open Sans'});   
