@@ -29,13 +29,12 @@ and open the template in the editor.
                     <br/>
                     <form action="sistema/recaptcha/verificar.php" id="formContato" name="formContato" method="post">                                            
                         <fieldset>                        
-                            <label for="txNome">Nome: <input id="txNome" name="txNome" type="text" /></label>
+                            <label for="txNome">Nome: <input id="txNome" name="txNome" type="text" /></label>                            
                             <label for="txEmail">E-mail: <input id="txEmail" name="txEmail" type="text" /></label>
                             <label for="txTelefone">Telefone: <input id="txTelefone" name="txTelefone" type="text" /></label>                                            
                             <label id="slAssunto">
                                 Assunto:
-                                <select id="slAssunto" name="slAssunto">
-                                    <option value="...">...</option>
+                                <select id="slAssunto" name="slAssunto">                                    
                                     <option value="Orçamento">Orçamento</option>
                                     <option value="Dúvidas">Dúvidas</option>
                                 </select>
