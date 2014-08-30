@@ -32,7 +32,7 @@ class email{
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         $mail->AddAddress($email);
         //$mail->AddAddress('ciclano@site.net');
-        $mail->AddCC('contato@desenhandomoda.com.br', 'Desenhando Moda'); // Copia
+        $mail->AddCC('heldergayer@hotmail.com', 'Desenhando Moda'); // Copia
         //$mail->AddBCC('shejapa@hotmail.com', 'Desenhando Moda'); // Cópia Oculta
         // Define os dados técnicos da Mensagem
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -41,8 +41,34 @@ class email{
         // Define a mensagem (Texto e Assunto)
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         $mail->Subject  = $assunto; // Assunto da mensagem
-        $mail->Body = $descricao;
-        $mail->AltBody = $descricao;
+        
+        
+        $contato = 
+                "<html>"
+                . "<head>"
+                    ."<style type='text/javascript'>"                        
+                        ."div.texto { color: #E9556A; width: 500px; }                          
+                          div.texto label { display: block; padding-bottom: 5px; font-weight: bold; }                          
+                          div.texto label span { color: #E9556A; font-weight: normal;}"                          
+                    ."</style>"
+                . "</head>"   
+                . "<body>"
+                    ."<div class='texto'>"
+                        ."<p>Você recebeu um contato: </p>"
+                        ."<br/>"
+                        ."<label>Assunto:  <span>".$assunto."</span></label>"
+                        ."<label>Nome:  <span>".$nome."</span></label>"                        
+                        ."<label>Telefone:  <span>".$telefone."</span></label>"                        
+                        ."<label>E-mail:  <span>".$email."</span></label>"                        
+                        ."<label>Descrição: </label>"                        
+                        ."<p>".$descricao."</p>"
+                    . "</div>"
+                ."</body>"
+            ."</html>";            
+        
+        $mail->Body = $contato;
+        
+        //$mail->AltBody = $descricao;
         // Define os anexos (opcional)
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         // $mail->AddAttachment("c:/temp/documento.pdf", "novo_nome.pdf");  // Insere um anexo
