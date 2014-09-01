@@ -21,18 +21,18 @@ class email{
         $mail->IsSMTP(); // Define que a mensagem será SMTP
         $mail->Host = "mx1.hostinger.com.br"; // Endereço do servidor SMTP
         $mail->SMTPAuth = true; // Usa autenticação SMTP? (opcional)
-        $mail->Username = 'helder@helderwebergayer.url.ph'; // Usuário do servidor SMTP
-        $mail->Password = 'guitar10'; // Senha do servidor SMTP
+        $mail->Username = 'contato@desenhandomoda.com.br'; // Usuário do servidor SMTP
+        $mail->Password = '7YxjRNIqK7'; // Senha do servidor SMTP
         $mail->Port = '2525';
         // Define o remetente
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        $mail->From = "helder@helderwebergayer.url.ph"; // Seu e-mail
+        $mail->From = "contato@desenhandomoda.com.br"; // Seu e-mail
         $mail->FromName = "Desenhando Moda"; // Seu nome 
         // Define os destinatário(s)
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         $mail->AddAddress($email);
         //$mail->AddAddress('ciclano@site.net');
-        $mail->AddCC('heldergayer@hotmail.com', 'Desenhando Moda'); // Copia
+        $mail->AddCC($email, 'Desenhando Moda'); // Copia
         //$mail->AddBCC('shejapa@hotmail.com', 'Desenhando Moda'); // Cópia Oculta
         // Define os dados técnicos da Mensagem
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -41,8 +41,7 @@ class email{
         // Define a mensagem (Texto e Assunto)
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         $mail->Subject  = $assunto; // Assunto da mensagem
-        
-        
+                
         $contato = 
                 "<html>"
                 . "<head>"

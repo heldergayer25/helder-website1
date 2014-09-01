@@ -13,7 +13,7 @@ and open the template in the editor.
             var RecaptchaOptions = {                
                //Temas 
                //'red' | 'white' | 'blackglass' | 'clean' | 'custom'
-               theme : 'white',               
+               theme : 'blackglass',               
                //linguagem
                lang : 'pt'
             };
@@ -21,17 +21,15 @@ and open the template in the editor.
     </head>
     <body>                
         <?php include'./cabecalho.php'?>       
-        <div id="section_home"></div>        
+        <div id="section_home"></div>    
+        <div id="fundoContato">
             <section class="wrapper">  
                 <div class="texto">
                     <h2>Contato</h2>
-                    <p>Se está interessado(a) no meu trabalho ou tem dúvidas, sinta-se à vontade para me contactar, través do formulário abaixo:</p>
+                    <p>Se está interessado(a) no meu trabalho ou tem dúvidas, sinta-se à vontade para me contactar, através do formulário abaixo:</p>
                     <br/>
                     <form action="sistema/recaptcha/verificar.php" id="formContato" name="formContato" method="post">                                            
                         <fieldset>                        
-                            <label for="txNome">Nome: <input id="txNome" name="txNome" type="text" /></label>                            
-                            <label for="txEmail">E-mail: <input id="txEmail" name="txEmail" type="text" /></label>
-                            <label for="txTelefone">Telefone: <input id="txTelefone" name="txTelefone" type="text" /></label>                                            
                             <label id="slAssunto">
                                 Assunto:
                                 <select id="slAssunto" name="slAssunto">                                    
@@ -39,6 +37,9 @@ and open the template in the editor.
                                     <option value="Dúvidas">Dúvidas</option>
                                 </select>
                             </label>
+                            <label for="txNome">Nome: <input id="txNome" name="txNome" type="text" /></label>                            
+                            <label for="txEmail">E-mail: <input id="txEmail" name="txEmail" type="text" /></label>
+                            <label for="txTelefone">Telefone: <input id="txTelefone" name="txTelefone" type="text" /></label>                                                                        
                             <label for="txDescricao">Descrição: <textarea id="txDescricao" name="txDescricao" type="textarea" cols="22" rows="7"></textarea></label>
                         </fieldset>                            
                     <div class="clear"></div>
@@ -52,7 +53,16 @@ and open the template in the editor.
                     <input type="submit" id="sbEnviar" name="sbEnviar" value="Enviar"  />                    
                 </form>                    
                 </div> 
-            </section>        
+                
+                <div class="texto" id="embreve">
+                    <div id="embreveContato">
+                        <p>Em breve novidades no blog Desenhando Moda!<br/> Aguardem :)</p>                        
+                    </div>                    
+                    <hr/>
+                </div>
+                <div class="clear"></div>
+            </section>   
+        </div>
         <div id="section_home"></div>
         <?php include './rodape.php';?>
     </body>
