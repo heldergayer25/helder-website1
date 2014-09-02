@@ -55,9 +55,7 @@ and open the template in the editor.
                 </div> 
                 
                 <div class="texto" id="embreve">
-                    <div id="embreveContato">
-                        <p>Em breve novidades no blog Desenhando Moda!<br/> Aguardem :)</p>                        
-                    </div>                    
+                    <div id="embreveContato"></div>                    
                     <hr/>
                 </div>
                 <div class="clear"></div>

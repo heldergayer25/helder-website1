@@ -114,7 +114,7 @@ div.texto form div#recaptcha_area { margin-left: 135px; }
 
 div#embreve.texto { width: 370px; float: right; margin-right: 20px; }
 div#embreve.texto hr { width: 370px; height: 5px; background-color: #E9556A; box-shadow: 5px 5px 10px #333; -webkit-box-shadow: 5px 5px 10px #333; -moz-box-shadow: 5px 5px 10px #333; float: bottom; clear: both; border: none; margin-left: 0; }
-div#embreve.texto div#embreveContato { width: 370px; height: 270px; background: url(../imagens/embreve-contato.png) no-repeat; float: right; }
+div#embreve.texto div#embreveContato { width: 370px; height: 270px; background: url(../imagens/embreve-contato2.png) no-repeat; float: right; }
 div#embreve.texto div#embreveContato p { width: 140px; height: 260px; text-align: right; font-size: 25px; float: right; line-height: 1.3; }
 
 
