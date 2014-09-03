@@ -7,12 +7,23 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Erro 404</title>
+        <?php include './referencias.php';?>
     </head>
-    <body>
-        <?php
-        // put your code here
-        ?>
-        <h1>Error 404, página não encontrada.</h1>
+    <body>        
+         <?php include'./cabecalho.php'?>       
+        <div id="section_home">
+               
+            <section class="wrapper">
+               
+                <div id="erro404">
+                    
+                </div> 
+                
+            </section>
+        
+        </div>        
+        
+        <?php include './rodape.php';?>
     </body>
 </html>
