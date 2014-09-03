@@ -22,8 +22,9 @@ class email{
         $mail->Host = "mx1.hostinger.com.br"; // Endereço do servidor SMTP
         $mail->SMTPAuth = true; // Usa autenticação SMTP? (opcional)
         $mail->Username = 'contato@desenhandomoda.com.br'; // Usuário do servidor SMTP
-        $mail->Password = '7YxjRNIqK7'; // Senha do servidor SMTP
+        $mail->Password = '25021989'; // Senha do servidor SMTP
         $mail->Port = '2525';
+        //$mail->Mailer = 'smtp';
         // Define o remetente
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         $mail->From = "contato@desenhandomoda.com.br"; // Seu e-mail
@@ -32,7 +33,7 @@ class email{
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         $mail->AddAddress($email);
         //$mail->AddAddress('ciclano@site.net');
-        $mail->AddCC($email, 'Desenhando Moda'); // Copia
+        $mail->AddCC('contato@desenhandomoda.com.br', 'Desenhando Moda'); // Copia
         //$mail->AddBCC('shejapa@hotmail.com', 'Desenhando Moda'); // Cópia Oculta
         // Define os dados técnicos da Mensagem
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -80,7 +81,8 @@ class email{
         if ($enviado) {
             echo "<meta charset='UTF-8'><script>alert('Seu e-mail foi enviado com sucesso! :)'); window.location='../../index.php';</script>";
         } else {
-            echo "<meta charset='UTF-8'><script>alert('Não foi possível enviar o e-mail, tente novamente!'); window.location='../../contato.php';</script>";            
+            //echo "<meta charset='UTF-8'><script>alert('Não foi possível enviar o e-mail, tente novamente! Devido ao erro: ".$mail->ErrorInfo."'); window.location='../../contato.php';</script>";                   
+            echo "<b>Informações do erro:</b> <br />" . $mail->ErrorInfo;
         }
     }
 }
