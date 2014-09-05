@@ -117,7 +117,8 @@ div#embreve.texto hr { width: 370px; height: 5px; background-color: #E9556A; box
 div#embreve.texto div#embreveContato { width: 370px; height: 270px; background: url(../imagens/embreve-contato2.png) no-repeat; float: right; }
 div#embreve.texto div#embreveContato p { width: 140px; height: 260px; text-align: right; font-size: 25px; float: right; line-height: 1.3; }
 
-div#erro404 { width: 828px; height: 520px; background-color: #ff0000; clear: both; position: absolute;   }
+div#erro404 { background-color: #000; width: 100%; height: 100%; }
+div#erro404 div#fantasma { background: url(../imagens/erro404.png) no-repeat; width: 828px; height: 520px; }
 
 
 /*	Footer */       
