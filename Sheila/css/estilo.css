@@ -43,7 +43,7 @@ header, nav, footer, section, article, aside { display:block; font-family: 'Nuni
 
 
 /*	Body */
-body { border-top:40px solid #000; background: url(../imagens/fundo_mao.png) 0px 60px; }
+body { border-top:40px solid #000; background: url(../imagens/fundo_mao.png) 0px 60px; font-family: 'Nunito', sans-serif; }
 
 
 /*	Header */
@@ -76,30 +76,15 @@ section.wrapper { padding-top: 40px; padding-bottom: 20px; }
 section.wrapper div.texto article { float: left; width: 470px;  text-align: justify; margin-left: 25px; }
 section.wrapper div.texto article h3 { font-size: 20px; font-weight: bold; font-weight: 700; }
 
-
-/*      Formulário Contato - modelo 1*/
-
-/*div.texto { color: #E9556A; }
-div.texto h2 { font-size: 25px; color: #E9556A; margin-bottom: 30px; }
-div.texto form { width: 450px; padding-bottom: 20px; margin-top: 20px; font-size: 20px; margin-left: 230px; }
-div.texto form fieldset label { margin-right: 20px; display: block; clear: both; padding-bottom: 10px; color: #E9556A; }
-div.texto form fieldset input[type = text] {  width: 300px; float: right; margin-bottom: 5px; font-size: 17px; font-family: 'Nunito', sans-serif; color: #E9556A; box-shadow: 5px 5px 10px #9F9F9F; -webkit-box-shadow: 5px 5px 10px #9F9F9F; -moz-box-shadow: 5px 5px 10px #9F9F9F; }
-div.texto form fieldset select {  margin-bottom: 5px; height: 30px; width: 306px; float: right; font-size: 15px; font-family: 'Nunito', sans-serif; color: #E9556A; box-shadow: 5px 5px 10px #9F9F9F; -webkit-box-shadow: 5px 5px 10px #9F9F9F; -moz-box-shadow: 5px 5px 10px #9F9F9F; }
-div.texto form fieldset textarea {  width: 300px; float: right; font-family: 'Nunito', sans-serif; color: #E9556A; font-size: 11px; box-shadow: 5px 5px 10px #9F9F9F; -webkit-box-shadow: 5px 5px 10px #9F9F9F; -moz-box-shadow: 5px 5px 10px #9F9F9F; }
-div.texto form input[type = submit] { float: right; border: none; margin-right: 20px; cursor: pointer; background-color: #E9556A; color: #FFF; height: 30px; }*/
-
-/* Mensagem de erro de validação do formulário pelo Validate */
-/*#formContato label.error, #formContato input.submit { font-size: 15px; color: #FF0000; font-weight: 700; float: right; }*/
-/* Recaptcha */                                                      
-/*div.texto form div#recaptcha_area { margin-left: 120px;; }*/
-
+div#apresentacao_home { background: url(../imagens/apresentacao-home2.jpg) no-repeat; height: 800px; width:1000px; margin:0 auto; padding:0 0px; }
+div#apresentacao_home h2 { font-size: 50px; color: #E9556A; text-align: center; padding-top: 20px; }
 
 /*      Formulário Contato - modelo 2*/
 
 div#fundoContato { background-color: #E9556A; width: 100%; height: 100% }
-div.texto { color: #FFF; width: 450px; float: left; margin-left: 20px; }
+div.texto { color: #E9556A; /*width: 450px;*/ float: left; margin-left: 20px; }
 //div.texto p { width: 450px; }
-div.texto h2 { font-size: 25px; color: #FFF; margin-bottom: 30px;  }
+div.texto h2 { font-size: 25px; color: #E9556A; margin-bottom: 30px;  }
 div.texto form { width: 450px; padding-bottom: 20px; margin-top: 20px; font-size: 20px; margin-left: 0px; }
 div.texto form fieldset label { display: block; clear: both; color: #FFF; font-weight: 400; margin-top: 20px; line-height: 1.5; }
 div.texto form fieldset input[type = text] { float: right; font-size: 17px; font-family: 'Nunito', sans-serif; color: #E9556A; border: none; height: 45px; border-radius: 7px; -webkit-border-radius: 7px; box-shadow: 5px 5px 10px #333; -webkit-box-shadow: 5px 5px 10px #333; -moz-box-shadow: 5px 5px 10px #333; width: 310px; height: 35px; }
