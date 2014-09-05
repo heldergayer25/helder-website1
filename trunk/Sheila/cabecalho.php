@@ -10,7 +10,7 @@
     <h1><a href="index.php" title="Desenhando Moda"></a></h1>        
     <nav id="menu">
         <ul>
-            <li><a href="#" title="Home" id="home">Home</a></li>
+            <li><a href="index.php" title="Home" id="home">Home</a></li>
             <li><a href="perfil.php" title="Perfil" id="perfil">Perfil</a></li>
             <li><a href="loja.php" title="Loja" id="loja">Loja</a></li>
             <li><a href="portfolio.php" title="Portfólio" id="portfolio">Portfólio</a></li>
