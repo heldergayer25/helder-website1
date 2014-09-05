@@ -1,8 +1,8 @@
 <header class="wrapper">    
     <nav id="redes">
         <ul>
-            <li><a href="http://instagram.com/" title="Instagram" id="instagram" target="_blank">Instagram</a></li>
-            <li><a href="https://twitter.com/" title="Twitter" id="twitter" target="_blank">Twitter</a></li>
+            <li><a href="http://instagram.com/sheetaylor" title="Instagram" id="instagram" target="_blank">Instagram</a></li>
+            <li><a href="https://twitter.com/shee_taylor" title="Twitter" id="twitter" target="_blank">Twitter</a></li>
             <li><a href="http://www.youtube.com/?gl=BR&hl=pt" title="YouTube" id="youtube" target="_blank">YouTube</a></li>
             <li><a href="https://www.facebook.com/pages/Desenhando-Moda-By-Sheila-Cristina/759472724113495" title="Facebook" id="facebook" target="_blank">Facebook</a></li>
         </ul>
