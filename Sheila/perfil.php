@@ -7,11 +7,18 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Perfil</title>
+        <?php include './referencias.php';?>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <?php include'./cabecalho.php'?>      
+        <div id="section_home"></div>    
+        <div id="erro404">
+            <section class="wrapper">                  
+                <div id="fantasma"></div>
+            </section>   
+        </div>
+        <div id="section_home"></div>
+        <?php include './rodape.php';?>
     </body>
 </html>
