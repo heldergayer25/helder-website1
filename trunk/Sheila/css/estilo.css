@@ -84,9 +84,10 @@ div#apresentacao_home h2 { font-size: 50px; color: #E9556A; text-align: center; 
 /*      Perfil*/
 
 img#perfil1 { float: left; }
-div.perfil1 p { font-size: 25px; color: #E9556A; text-align: center; line-height: 40px; margin-top: 30px; width: 300px;margin-left: 70px;}
+div.perfil1 p { font-size: 25px; color: #E9556A; text-align: center; line-height: 40px; margin-top: 0px; width: 300px;margin-left: 80px;}
+div.perfil1 p#nome { margin-top: 70px; width: 400px; margin-left: 30px; }
 img#perfil2 { float: right; margin-top: -60px; z-index: -1; position: relative; }
-div.perfil2 p { font-size: 25px; color: #FFF; text-align: center; line-height: 40px; margin-top: 30px; width: 300px; margin-left: 70px; }
+div.perfil2 p { font-size: 25px; color: #FFF; text-align: center; line-height: 40px; margin-top: 40px; width: 300px; margin-left: 75px; }
 
 /*      Formulário Contato - modelo 2*/
 
