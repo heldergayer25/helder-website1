@@ -20,16 +20,17 @@ $mail = new PHPMailer();
 $mail->IsSMTP(); // Define que a mensagem será SMTP
 $mail->Host = "mx1.hostinger.com.br"; // Endereço do servidor SMTP
 $mail->SMTPAuth = true; // Usa autenticação SMTP? (opcional)
-$mail->Username = 'helder@helderwebergayer.url.ph'; // Usuário do servidor SMTP
-$mail->Password = 'guitar10'; // Senha do servidor SMTP
+$mail->Username = 'contato@desenhandomoda.com.br'; // Usuário do servidor SMTP
+$mail->Password = '25021989'; // Senha do servidor SMTP
 $mail->Port = '2525';
 // Define o remetente
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-$mail->From = "helder@helderwebergayer.url.ph"; // Seu e-mail
+$mail->From = "contato@desenhandomoda.com.br"; // Seu e-mail
 $mail->FromName = "Desenhando Moda"; // Seu nome 
 // Define os destinatário(s)
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-$mail->AddAddress($email);
+$mail->AddAddress('contato@desenhandomoda.com.br', 'Desenhando Moda');
+$mail->addCC($emaill);
 //$mail->AddAddress('ciclano@site.net');
 //$mail->AddCC('heldergayer@hotmail.com', 'Desenhando Moda'); // Copia
 //$mail->AddBCC('shejapa@hotmail.com', 'Desenhando Moda'); // Cópia Oculta
@@ -40,8 +41,33 @@ $mail->CharSet = 'UTF-8'; // Charset da mensagem (opcional)
 // Define a mensagem (Texto e Assunto)
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 $mail->Subject  = $assunto; // Assunto da mensagem
-$mail->Body = $descricao;
-$mail->AltBody = $descricao;
+
+ $contato = 
+                "<html>"
+                . "<head>"
+                    ."<style type='text/javascript'>"                        
+                        ."div.texto { color: #E9556A; width: 500px; }                          
+                          div.texto label { display: block; padding-bottom: 5px; font-weight: bold; }                          
+                          div.texto label span { color: #E9556A; font-weight: normal;}"                          
+                    ."</style>"
+                . "</head>"   
+                . "<body>"
+                    ."<div class='texto'>"
+                        ."<p>Você recebeu um contato: </p>"
+                        ."<br/>"
+                        ."<label>Assunto:  <span>".$assunto."</span></label>"
+                        ."<label>Nome:  <span>".$nome."</span></label>"                        
+                        ."<label>Telefone:  <span>".$telefone."</span></label>"                        
+                        ."<label>E-mail:  <span>".$email."</span></label>"                        
+                        ."<label>Descrição: </label>"                        
+                        ."<p>".$descricao."</p>"
+                    . "</div>"
+                ."</body>"
+            ."</html>";            
+        
+ $mail->Body = $contato;
+
+//$mail->AltBody = $descricao;
 // Define os anexos (opcional)
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 // $mail->AddAttachment("c:/temp/documento.pdf", "novo_nome.pdf");  // Insere um anexo
