@@ -13,7 +13,8 @@ class email{
     }
     
     public function validarEmail($nome, $email, $telefone, $assunto, $descricao){
-        
+        // Inclui o arquivo class.phpmailer.php localizado na pasta phpmailer
+//        require("./class.phpmailer.php");
         // Inicia a classe PHPMailer
         $mail = new PHPMailer();
         // Define os dados do servidor e tipo de conexão
@@ -24,6 +25,7 @@ class email{
         $mail->Username = 'contato@desenhandomoda.com.br'; // Usuário do servidor SMTP
         $mail->Password = '25021989'; // Senha do servidor SMTP
         $mail->Port = '2525';
+        $mail->SMTPDebug = 2;
         //$mail->Mailer = 'smtp';
         // Define o remetente
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -31,9 +33,10 @@ class email{
         $mail->FromName = "Desenhando Moda"; // Seu nome 
         // Define os destinatário(s)
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        $mail->AddAddress($email);
+        $mail->AddAddress('contato@desenhandomoda.com.br', 'Desenhando Moda');
+        $mail->addCC($email);
         //$mail->AddAddress('ciclano@site.net');
-        $mail->AddCC('contato@desenhandomoda.com.br', 'Desenhando Moda'); // Copia
+        //$mail->AddCC('contato@desenhandomoda.com.br', 'Desenhando Moda'); // Copia
         //$mail->AddBCC('shejapa@hotmail.com', 'Desenhando Moda'); // Cópia Oculta
         // Define os dados técnicos da Mensagem
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

@@ -72,7 +72,7 @@ header nav#menu ul li a#portfolio { margin-left: 4px; font-size: 24px; margin-to
 header nav#menu ul li a#contato { margin-left: 7px; font-size: 25px; margin-top: 50px;}                
 header nav#menu ul li a#anuncie { margin-left: 7px; font-size: 25px; margin-top: 50px;}
 
-section.wrapper { padding-top: 40px; /*padding-bottom: 20px;*/ }         
+section.wrapper { /*padding-top: 40px; /*padding-bottom: 20px;*/ }         
 section.wrapper div.texto article { float: left; width: 470px;  text-align: justify; margin-left: 25px; }
 section.wrapper div.texto article h3 { font-size: 20px; font-weight: bold; font-weight: 700; }
 
@@ -80,6 +80,13 @@ section.wrapper div.texto article h3 { font-size: 20px; font-weight: bold; font-
 div#apresentacao_home { background: url(../imagens/apresentacao-home2.jpg) no-repeat; height: 800px; width:1000px; margin:0 auto; padding:0 0px; }
 div#apresentacao_home h2 { font-size: 50px; color: #E9556A; text-align: center; padding-top: 20px; }
 
+
+/*      Perfil*/
+
+img#perfil1 { float: left; }
+div.perfil1 p { font-size: 25px; color: #E9556A; text-align: center; line-height: 40px; margin-top: 30px; width: 300px;margin-left: 70px;}
+img#perfil2 { float: right; margin-top: -60px; z-index: -1; position: relative; }
+div.perfil2 p { font-size: 25px; color: #FFF; text-align: center; line-height: 40px; margin-top: 30px; width: 300px; margin-left: 70px; }
 
 /*      Formulário Contato - modelo 2*/
 
