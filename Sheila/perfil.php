@@ -24,7 +24,7 @@ and open the template in the editor.
                     <p>Admiradora do mundo da moda, maquiagem, 
                         esmalte, produtos de beleza, livros, desenhos, 
                         dança, video game, cinema, séries, toys, música,
-                        shows, rock and roll, viagens e muito mas 
+                        shows, rock and roll, viagens e muito, mas 
                         muuuito chocolate.</p>
                 </div>
                 <img id="perfil2" src="imagens/perfil2.jpg" alt="Sheila Cristina Alves de Arruda" />                                
