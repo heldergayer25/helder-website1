@@ -62,7 +62,7 @@
                
                // Efeito portfólio                
                 $('.thumbs').portfolio({
-                    cols: 4,
+                    cols: 3,
                     transition: 'slideDown'     
                     
                     //opções de transição:
