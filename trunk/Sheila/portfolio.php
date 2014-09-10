@@ -214,7 +214,7 @@ and open the template in the editor.
                         <h1>Infográfico</h1>
                         <!--<p>Vestibulum gravida, ante ut consectetur dictum, dolor sapien pretium elit, sed tincidunt augue sem a lorem. Vivamus quis neque pharetra, consequat dolor vel, venenatis urna. Praesent diam quam, fermentum vel tortor eget, pulvinar tincidunt velit.</p>                        -->
                         <p class="galeria">
-                            <img src="imagens/portfolio/infografico/info.jpg" alt="Infográfico - Sheila Cristina Alves de Arruda" />
+                            <img src="imagens/portfolio/infografico/infografico.jpg" alt="Infográfico - Sheila Cristina Alves de Arruda" />
                         </p>  
                     </div>   
                     <div id="thumb6">                        

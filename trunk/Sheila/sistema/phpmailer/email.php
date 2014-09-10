@@ -21,11 +21,11 @@ class email{
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         $mail->IsSMTP(); // Define que a mensagem será SMTP
         $mail->Host = "mx1.hostinger.com.br"; // Endereço do servidor SMTP
-        $mail->SMTPAuth = true; // Usa autenticação SMTP? (opcional)
-        $mail->Username = 'contato@desenhandomoda.com.br'; // Usuário do servidor SMTP
-        $mail->Password = '25021989'; // Senha do servidor SMTP
         $mail->Port = '2525';
         $mail->SMTPDebug = 2;
+        $mail->SMTPAuth = true; // Usa autenticação SMTP? (opcional)        
+        $mail->Username = 'contato@desenhandomoda.com.br'; // Usuário do servidor SMTP
+        $mail->Password = '25021989'; // Senha do servidor SMTP        
         //$mail->Mailer = 'smtp';
         // Define o remetente
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
