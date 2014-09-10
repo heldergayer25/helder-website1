@@ -51,7 +51,7 @@ body { border-top:40px solid #000; background: url(../imagens/fundo_mao.png) 0px
 div#section_home { background: #E9556A url(../imagens/linha_maos_superior.png) center no-repeat; width: 100%; height: 40px; }                                
 header h1 { text-indent: -99999px; }
 //header h1#titulo { background: url(../imagens/titulo.png) right no-repeat; width: 677px; height: 332px; }
-header h1 a { background: url(../imagens/home4.png) left no-repeat; display: block; width: 981px; height: 524px; margin-top: 20px; margin-left: 20px;}
+header h1 a { background: url(../imagens/home5.png) left no-repeat; display: block; width: 981px; height: 524px; margin-top: 20px; margin-left: 20px;}
 //header h1 a#titulo { background: url(../imagens/titulo.png) right no-repeat; display: block; width: 600px; height: 332px; margin-top: 125px; float: right;}
 header nav#redes { clear: both; float: right; }
 header nav#redes ul li { float: right; }
@@ -62,7 +62,7 @@ header nav#redes ul li a#youtube { background: url(../imagens/icone_youtube.png)
 header nav#redes ul li a#facebook { background: url(../imagens/icone_facebook.png) no-repeat; margin-right: 0px; }
 header nav#redes ul li a#instagram:hover, header nav#redes ul li a#twitter:hover, header nav#redes ul li a#youtube:hover, header nav#redes ul li a#facebook:hover { opacity: 0.6; }                
 
-header nav#menu { position: relative; float: right; margin-right: 80px; margin-top: -150px;}
+header nav#menu { position: relative; float: right; margin-right: 70px; margin-top: -160px;}
 header nav#menu ul li { float: left; margin-right: 15px; background: url(../imagens/caveira.png) right no-repeat; width: 92px; height: 120px; }
 header nav#menu ul li a { text-decoration: none; margin-top: 47px; position: absolute; font-size: 27px; color: #000; /*text-indent: -99999px;*/ }
 header nav#menu ul li a#home { margin-left: 15px; }                                
@@ -94,7 +94,7 @@ div.perfil2 p { font-size: 25px; color: #FFF; text-align: center; line-height: 4
 div#fundoContato { background-color: #E9556A; width: 100%; height: 100% }
 div.texto { color: #FFF; width: 450px; float: left; margin-left: 20px; padding-bottom: 20px; }
 //div.texto p { width: 450px; }
-div.texto h2 { font-size: 25px; color: #FFF; margin-bottom: 30px;  }
+div.texto h2 { font-size: 25px; color: #FFF; margin-bottom: 30px;  margin-top: 40px; }
 div.texto form { width: 450px; padding-bottom: 20px; margin-top: 20px; font-size: 20px; margin-left: 0px; }
 div.texto form fieldset label { display: block; clear: both; color: #FFF; font-weight: 400; margin-top: 20px; line-height: 1.5; }
 div.texto form fieldset input[type = text] { float: right; font-size: 17px; font-family: 'Nunito', sans-serif; color: #E9556A; border: none; height: 45px; border-radius: 7px; -webkit-border-radius: 7px; box-shadow: 5px 5px 10px #333; -webkit-box-shadow: 5px 5px 10px #333; -moz-box-shadow: 5px 5px 10px #333; width: 310px; height: 35px; }
@@ -109,20 +109,20 @@ div.texto form div#recaptcha_area { margin-left: 135px; }
 
 div#embreve.texto { width: 370px; float: right; margin-right: 20px; }
 div#embreve.texto hr { width: 370px; height: 5px; background-color: #E9556A; box-shadow: 5px 5px 10px #333; -webkit-box-shadow: 5px 5px 10px #333; -moz-box-shadow: 5px 5px 10px #333; float: bottom; clear: both; border: none; margin-left: 0; }
-div#embreve.texto div#embreveContato { width: 370px; height: 270px; background: url(../imagens/embreve-contato2.png) no-repeat; float: right; }
+div#embreve.texto div#embreveContato { width: 370px; height: 270px; background: url(../imagens/embreve-contato2.png) no-repeat; float: right; margin-top: 40px; }
 div#embreve.texto div#embreveContato p { width: 140px; height: 260px; text-align: right; font-size: 25px; float: right; line-height: 1.3; }
 
 div#erro404 { background-color: #000; width: 100%; height: 100%; }
 div#erro404 div#fantasma { background: url(../imagens/erro404.png) no-repeat; width: 828px; height: 520px; }
 
-div#construcao { background: url(../imagens/em-construcao.png) no-repeat; width: 550px; height: 524px; margin-left: 220px; }
+div#construcao { background: url(../imagens/em-construcao.png) no-repeat; width: 550px; height: 524px; margin-left: 220px; margin-top: 40px; }
 
 /*	Footer */       
 
 footer { background-color: /*#E9556A*/ #000; padding-top: 35px; margin-bottom: 0px; }                
-footer address { font-size: 12px; color: #FFF; line-height: 20px; clear: both;  padding-top: 10px; margin-left: 20px;}
+footer address { font-size: 12px; color: #FFF; line-height: 15px; clear: both;  padding-top: 10px; margin-left: 20px; padding-bottom: 5px; }
 footer div#assinatura_rodape { background: url(../imagens/assinatura_rodape.png) right no-repeat; height: 41px; width: 180px; float: right; margin-top: -60px; margin-right: 70px;}
-footer p { font-size: 12px; color: #FFF; float: right; margin-right: 60px; margin-top: -15px; }
+footer p { font-size: 12px; color: #FFF; float: right; margin-right: 60px; margin-top: -17px; }
 //footer div { background: #E9556A url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; }
 footer div#cartoon_rodape { background: url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; float: right; margin-right: 20px; margin-top: -59px;}
 
@@ -136,7 +136,7 @@ ul.thumbs {
 
 ul.thumbs li {
     display: inline-block;
-    height: 200px;
+    height: 270px; //regula altura das imagens na capa do portifólio
     overflow: hidden;
     padding: 0;
     float: left;
