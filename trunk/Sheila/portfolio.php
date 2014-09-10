@@ -214,7 +214,7 @@ and open the template in the editor.
                         <h1>Infográfico</h1>
                         <!--<p>Vestibulum gravida, ante ut consectetur dictum, dolor sapien pretium elit, sed tincidunt augue sem a lorem. Vivamus quis neque pharetra, consequat dolor vel, venenatis urna. Praesent diam quam, fermentum vel tortor eget, pulvinar tincidunt velit.</p>                        -->
                         <p class="galeria">
-                            <a class="fancybox-effects-c" href="imagens/portfolio/original/01.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="imagens/portfolio/thumbnail/01.jpg" alt="" /></a>
+                            <img src="imagens/portfolio/infografico/info.jpg" alt="Infográfico - Sheila Cristina Alves de Arruda" />
                         </p>  
                     </div>   
                     <div id="thumb6">                        
