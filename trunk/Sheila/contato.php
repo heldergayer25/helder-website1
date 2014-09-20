@@ -26,9 +26,10 @@ and open the template in the editor.
             <section class="wrapper">  
                 <div class="texto">
                     <h2>Contato</h2>
-                    <p>Se está interessado(a) no meu trabalho ou tem dúvidas, sinta-se à vontade para me contactar, através do formulário abaixo:</p>
-                    <br/>
-                    <form action="sistema/recaptcha/verificar.php" id="formContato" name="formContato" method="post">                                            
+                    <p style="line-height: 20px;">Se está interessado(a) no meu trabalho ou tem dúvidas, sinta-se à vontade para me contactar, através do e-mail abaixo:</p>
+                    <br/><br/><br/><br/><br/>
+                    <p style="font-weight: bold; font-size: 20px;">blogdesenhandomoda@hotmail.com.br</p>
+                    <!--<form action="sistema/phpmailer/email-old.php" id="formContato" name="formContato" method="post">                                            
                         <fieldset>                        
                             <label id="slAssunto">
                                 Assunto:
@@ -45,13 +46,13 @@ and open the template in the editor.
                     <div class="clear"></div>
                     <br/>                    
                     <?php
-                        require_once ('sistema/recaptcha/recaptchalib.php');
-                        $publickey = "6LfjD_kSAAAAAA-BpQ5Wey8-T4K1HpH3iIP_1i1H";  // chave pública
-                        echo recaptcha_get_html($publickey);
+                        //require_once ('sistema/recaptcha/recaptchalib.php');
+                        //$publickey = "6LfjD_kSAAAAAA-BpQ5Wey8-T4K1HpH3iIP_1i1H";  // chave pública
+                        //echo recaptcha_get_html($publickey);
                     ?>                        
                     <br/>                        
                     <input type="submit" id="sbEnviar" name="sbEnviar" value="Enviar"  />                    
-                </form>                    
+                </form>-->                    
                 </div> 
                 
                 <div class="texto" id="embreve">
