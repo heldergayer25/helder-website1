@@ -8,6 +8,7 @@
 
 require_once('../recaptcha/recaptchalib.php');
 require("../phpmailer/class.phpmailer.php");
+require '../phpmailer/class.smtp.php';
 require '../phpmailer/email.php';
   $privatekey = "6LfjD_kSAAAAACYlzi22Gk8cdeCU9e_jW8gldwRP";
   $resp = recaptcha_check_answer ($privatekey,

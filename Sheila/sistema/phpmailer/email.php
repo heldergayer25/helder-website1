@@ -20,20 +20,21 @@ class email{
         // Define os dados do servidor e tipo de conexão
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
         $mail->IsSMTP(); // Define que a mensagem será SMTP
-        $mail->Host = "mx1.hostinger.com.br"; // Endereço do servidor SMTP
-        $mail->Port = '2525';
-        $mail->SMTPDebug = 2;
+        $mail->Host = "smtp-mail.outlook.com"; // Endereço do servidor SMTP
+        $mail->Port = '587';
+        
         $mail->SMTPAuth = true; // Usa autenticação SMTP? (opcional)        
-        $mail->Username = 'contato@desenhandomoda.com.br'; // Usuário do servidor SMTP
-        $mail->Password = '25021989'; // Senha do servidor SMTP        
-        //$mail->Mailer = 'smtp';
+        $mail->Username = 'blogdesenhandomoda@hotmail.com'; // Usuário do servidor SMTP
+        $mail->Password = '25shedivergente'; // Senha do servidor SMTP
+        $mail->SMTPSecure = 'tls';              
+        $mail->SMTPDebug = 2;
         // Define o remetente
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        $mail->From = "contato@desenhandomoda.com.br"; // Seu e-mail
+        $mail->From = "blogdesenhandomoda@hotmail.com"; // Seu e-mail
         $mail->FromName = "Desenhando Moda"; // Seu nome 
         // Define os destinatário(s)
         // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        $mail->AddAddress('contato@desenhandomoda.com.br', 'Desenhando Moda');
+        $mail->AddAddress('blogdesenhandomoda@hotmail.com', 'Desenhando Moda');
         $mail->addCC($email);
         //$mail->AddAddress('ciclano@site.net');
         //$mail->AddCC('contato@desenhandomoda.com.br', 'Desenhando Moda'); // Copia
