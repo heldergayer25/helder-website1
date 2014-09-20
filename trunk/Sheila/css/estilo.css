@@ -364,4 +364,4 @@ div.posts img { margin-top: 20px; margin-bottom: 20px; }
 div.posts p { color: #000; font-size: 25px; text-align: left; line-height: 40px; float: left; }
 div.posts-titulo { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 70px; float: left; }
 div.broche { background: url(../imagens/posts/elementos/broche.png) right no-repeat; width: 300px; height: 508px; float: right; }
-div.rodape-posts { background: url(../imagens/posts/elementos/rodape-posts.jpg) center no-repeat; width: 600px; height: 231px; clear: both; }
+div.rodape-posts { background: url(../imagens/posts/elementos/rodape-posts.jpg) center no-repeat; width: 600px; height: 231px; clear: both;  }

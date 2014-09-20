@@ -31,7 +31,7 @@ and open the template in the editor.
                 do blog! Tenho muitas ideias legais,
                 divertidas, e muito loucas para mostrar
                 a vocês, espero que curtam.</p>
-                <img src="imagens/posts/fotos/photo1.JPG" />                
+                <img src="imagens/posts/fotos/photo1.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>                
                 <p>Então vamos começar...No último final de 
                 semana fui ao Jardim Botânico, adoro esse
                 parque, e quando sai um solzinho por aqui
@@ -40,19 +40,19 @@ and open the template in the editor.
                 Então resolvi vestir uma batinha bem
                 fresquinha, uma calça detonada e meu
                 querido all star.</p>                
-                <img src="imagens/posts/fotos/photo2.JPG" />
-                <img src="imagens/posts/fotos/photo3.JPG" />
-                <img src="imagens/posts/fotos/photo4.JPG" />
-                <img src="imagens/posts/fotos/photo5.JPG" />
-                <img src="imagens/posts/fotos/photo6.JPG" />
-                <img src="imagens/posts/fotos/photo7.JPG" />
-                <img src="imagens/posts/fotos/photo8.JPG" />
-                <img src="imagens/posts/fotos/photo9.JPG" />
-                <img src="imagens/posts/fotos/photo10.JPG" />
-                <img src="imagens/posts/fotos/photo11.JPG" />
-                <img src="imagens/posts/fotos/photo12.JPG" />
+                <img src="imagens/posts/fotos/photo2.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo3.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo4.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo5.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo6.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo7.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo8.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo9.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo10.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo11.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
+                <img src="imagens/posts/fotos/photo12.JPG" alt="Look - Jardim Botânico" title="Look - Jardim Botânico"/>
                 <p>Croqui - Reprodução do look Jardim Botânico</p>
-                <img src="imagens/posts/fotos/photo13.JPG" />                
+                <img src="imagens/posts/fotos/photo13.jpg" alt="Croqui - Look Jardim Botânico" title="Croqui - Look Jardim Botânico"/>                
                 <p>Bom galera é isso, vou compartilhar um
                 pouco do meu mundo com vocês, das
                 coisas que eu amo e curto em fazer.
