@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20/09/2014, 13:26:59
+    Author     : Helder
+*/
+/*  Diretivas gerais */
+@charset "utf-8";
+
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Nunito:400,300,700);
+/*  Reset CSS */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, font, img, ins, kbd, q, s, samp, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption	{ margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent; }
+body { line-height:1; }
+ol, ul { list-style:none; }
+blockquote, q {	quotes:none; }
+:focus { outline:0; }
+ins { text-decoration:none; }
+del { text-decoration:line-through; }
+
+/*	HTML5 */
+header, nav, footer, section, article, aside { display:block; font-family: 'Nunito', sans-serif; font-weight: 300; }
+
+/*  Classes de uso comum */
+.wrapper { width:1000px; margin:0 auto; padding:0 0px; font-family: 'Nunito', sans-serif; }
+.clear { clear:both; }
+.left { float:left; }
+.right { float:right; }
+.imgLeft { float:left; margin-right:40px; }
+.imgRight { float:right; margin-left:40px; }
+.imgLeft, .imgRight { margin-bottom:30px; }
+
+/*	CSS Sprite */	
+//header h1 a, header h2, footer .logoGPA a{ background:url(../imagem/sprite.png) no-repeat; display:block; }
+//header h1 a, header h2, footer .logoGPA a { text-indent:-99999px; }
+// header h1 a { background: url(../imagens/sprite.png) no-repeat; display: block; }
+//header h1 a { text-indent: -99999px; }
+
+
+/*	Body */
+body { font-family: 'Nunito', sans-serif; }
+
+
+div#login { margin:0 auto; padding:0 0px; width: 500px; height: 300px; background-color: #999; float: bottom; margin-top: 200px; }
+
