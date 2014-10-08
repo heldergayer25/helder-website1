@@ -69,12 +69,20 @@ and open the template in the editor.
                <img src="imagens/posts/fotos/photo16.jpg" alt="Slash - World On Fire" title="Slash - World On Fire"/>                                                               
                 <p>Por hoje é isso pessoal, até o próximo post!</p>                
                 <div class="rodape-posts"></div>
-                <div class="paginacao-titulo"><p>Posts anteriores</p></div>                
-                <div class="paginacao"><p><a href="index.php">01</a> - <a href="pagina2.php">02</a></p></div>
                 <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>     
             <!--<div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>-->
             <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
+            <div class="posts2">                
+                <div class="paginacao-titulo"><p>Posts anteriores</p></div>   
+                <div class="paginacao">                    
+                    <ul>
+                        <li><a href="index.php">01</a></li>
+                        <li><a href="pagina2.php">02</a></li>
+                    </ul>                    
+                </div>
+            </div>            
+            <div class="clear"></div>
         </section>        
         <div id="apresentacao_home">            
             <h2>EM BREVE, NOVIDADES NO BLOG! </h2>            
