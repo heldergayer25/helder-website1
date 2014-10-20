@@ -37,9 +37,9 @@ and open the template in the editor.
                 tu fica completamente perdido.<br></p>
                 <p><b>SELFIE</b></p>
                 <img src="imagens/posts/fotos/photo23.jpg" alt="Séries" title="Séries"/>    
-                <p>Conta á história de Eliza Dooley, uma garota obcecada pelas redes sociais e o número de seguidores que tem em cada uma delas... alguém se identifica ai? 
+                <p>Conta à história de Eliza Dooley, uma garota obcecada pelas redes sociais e o número de seguidores que tem em cada uma delas... alguém se identifica ai? 
                 Mas ela percebe que ter amigos virtuais, não significa que eles são realmente seus amigos. Só e sem amigos reais, decide procurar ajuda com o especialista 
-                Henry Higenbottam da empresa aonde trabalha para dar uma inovada em sua imagem, mudando seu comportamento e se adaptando a sua realidade fora na internet.<br>
+                Henry Higenbottam da empresa aonde trabalha para dar uma inovada em sua imagem, mudando seu comportamento e se adaptando a sua realidade fora da internet.<br>
                 Eu realmente assisti essa série pelo simples fato de se tratar sobre redes virtuais, um vício hoje em dia, aonde as pessoas se preocupam muito com os números 
                 de seguidores do que a qualidade de suas verdadeiras amizades! Tirando o fato que é suuuper divertido.<br></p>
                 <p><b>GOTHAM</b></p>
