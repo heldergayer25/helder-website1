@@ -25,16 +25,16 @@ and open the template in the editor.
             <div class="posts">
                 <p>Olá pessoas belezinha?!<br>
                 Primeiramente peço desculpas pela demora do post, estou trabalhando loucamente nesses últimos 
-                dias, mas a partir do mês que vem vou melhorar isso :)<br><br>
-                Bom, vamos lá... Não poderia deixar passar em branco, pois ontem foi o Lançamento do filme: Jogos Vorazes – A Esperança parte I. Poxa a espera foi uma 
-                tortura, mas vou ter que me aguentar mais um pouco, pois vou assistir só no final de semana por motivos de tempo, então estou me esquivando dos spoiler!
-                </p>
+                dias, mas a partir do mês que vem vou melhorar isso :)</p>
                 <img src="imagens/posts/fotos/photo38.jpg" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>                                
+                <p>Bom, vamos lá... Não poderia deixar passar em branco, pois ontem foi o lançamento do filme: Jogos Vorazes – A Esperança parte I. Poxa a espera foi uma 
+                tortura, mas vou ter que me aguentar mais um pouco, pois vou assistir só no final de semana por motivos de tempo, então estou me esquivando dos spoiler!</p>                
                 <img src="imagens/posts/fotos/photo39.jpg" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>                                
                 <img src="imagens/posts/fotos/photo40.jpg" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>   
                 <p>Como sou fã da saga eu já li os livros, e estou meio com receio, pelo menos a primeira parte do livro achei meio chato, espero me surpreender um pouco mais no cinema.</p>
                 <img src="imagens/posts/fotos/photo41.JPG" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>                                
                 <img src="imagens/posts/fotos/photo42.JPG" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>               
+                <p>Trailer</p>
                 <iframe width="600" height="315" src="//www.youtube.com/embed/fH94XHAf4es" frameborder="0" allowfullscreen></iframe>
                 <p>Estou que não me aguento de curiosidade! Depois irei postar a minha opinião nas redes sociais.</p>                
                 <img src="imagens/posts/fotos/photo43.jpg" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>                                
