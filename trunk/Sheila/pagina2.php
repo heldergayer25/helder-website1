@@ -21,6 +21,42 @@ and open the template in the editor.
             </section> -->                   
         <section class="wrapper">        
             <div class="broche"></div>
+            <div class="posts-titulo5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Books – Os Heróis do Olimpo</div>
+            <div class="posts">
+                <p>Olá pessoas, belezinha?!<br>
+                Quem curtiu Percy Jackson e os Olimpianos com certeza acompanha agora - Os Heróis do Olimpo. Neste mês de Outubro saiu o último livro da série: 
+                O Sangue do Olimpo. A série está na minha lista de livros para leitura, não tive tempo de ler ainda, pois estou terminando a série dos Jogos Vorazes, 
+                estou na parte III do livro: A Esperança e pretendo termina-lo antes da estreia do filme, quem faz coleção sabe como é difícil ler tudo de uma vez só 
+                hehe, então estou indo com calma, mas a cada livro finalizado desta série, vou fazer resenha e dar a minha opinião aqui no blog, aguardem!<br></p>                
+                <p><br>O HERÓI PERDIDO</p>
+                <img src="imagens/posts/fotos/photo30.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>                                
+                <p><a href="http://www.osheroisdoolimpo.com.br/livro/o-heroi-perdido/" target="_blank" style="text-decoration: none;">Sinopse</a><br>                
+                <br>O FILHO DE NETUNO</p>
+                <img src="imagens/posts/fotos/photo31.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
+                <p><a href="http://www.osheroisdoolimpo.com.br/livro/o-filho-de-netuno/" target="_blank" style="text-decoration: none;">Sinopse</a><br>                
+                <br>A MARCA DE ATENA</p>
+                <img src="imagens/posts/fotos/photo32.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
+                <p><a href="http://www.osheroisdoolimpo.com.br/livro/a-marca-de-atena/" target="_blank" style="text-decoration: none;">Sinopse</a><br>                
+                <br>A CASA DE HADES</p>
+                <img src="imagens/posts/fotos/photo33.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
+                <p><a href="http://www.osheroisdoolimpo.com.br/livro/a-casa-de-hades/" target="_blank" style="text-decoration: none;">Sinopse</a><br>
+                <br>O SANGUE DO OLIMPO</p>
+                <img src="imagens/posts/fotos/photo34.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
+                <p><a href="http://www.osheroisdoolimpo.com.br/livro/o-sangue-do-olimpo/" target="_blank" style="text-decoration: none;">Sinopse</a><br>
+                <br>COLEÇÃO COMPLETA</p>
+                <img src="imagens/posts/fotos/photo35.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/> 
+                <img src="imagens/posts/fotos/photo36.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/> 
+                <img src="imagens/posts/fotos/photo37.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
+                <p> Estou tentando fechar a minha coleção de marcadores desta série, se alguém estiver interessado em trocar marcadores de página, me adiciona no instagram.<br></p>
+                <div style="text-align: center;"> 
+                    <a href="http://instagram.com/sheetaylor" target="_blank"><img src="imagens/icone_instagram.png" /></a>
+                </div>                
+                <p>Ahhhhh, pra galera que tiver blog... deixe nos comentários o endereço, quero  visitar ok?! Bom galera, por hoje é só, até o próximo post.</p>
+                <div class="rodape-posts"></div>
+                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
+            </div>
+            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
+            
             <div class="posts-titulo4" >Séries</div>
             <div class="posts">
                 <p>Olá pessoas, tudo bem?<br>
@@ -89,29 +125,6 @@ and open the template in the editor.
             </div>
             <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
             
-            <div class="posts-titulo3" >Jardineira</div>
-            <div class="posts">
-                <img src="imagens/posts/fotos/photo17.jpg" alt="Jardineira" title="Jardineira"/>    
-                <p>Olá pessoas, tudo bem?<br>
-                Olha quem voltou direto dos anos 90... Adoooro essa época... Um simples uniforme de operário, que acabou virando moda 
-                na década de 90 está voltando com tudo para a próxima estação. Já usei muuuito e curto tanto no modelo em calça e shorts.<br>
-                A jardineira com uma camiseta básica e um tênis estiloso, é a minha combinação favorita, o look fica confortável e despojado, 
-                e já que o look fica no básico é nos acessórios que vai dar um toque final. Fica a dica :)<br>
-                Separei alguns exemplos:</p>                
-                <img src="imagens/posts/fotos/photo18.jpg" alt="Jardineira" title="Jardineira"/>  
-                <p>Camiseta colorida, estampada, camisa, tricô, blusa, cropped, blazer, sapato, bota, tênis, sapatilha, alpargata, sandália e 
-                rasteirinha. Depende de você e seus acessórios, que vão completa-la, com um estilo mais despojado, ou mais sofisticado.</p>
-                <img src="imagens/posts/fotos/photo19.jpg" alt="Jardineira" title="Jardineira"/>    
-                <p>Cores, texturas e modelagem, o diferencial!</p>
-                <img src="imagens/posts/fotos/photo20.jpg" alt="Jardineira" title="Jardineira"/> 
-                <p>Estampado e divertido, invista com peças mais básicas.</p>
-                <img src="imagens/posts/fotos/photo21.jpg" alt="Jardineira" title="Jardineira"/>  
-                <p>Por hoje é isso pessoal, até o próximo post!</p>                
-                <div class="rodape-posts"></div>
-                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
-            </div>               
-            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
-                      
             <div class="posts2">                
                 <div class="paginacao-titulo"><p>Posts anteriores</p></div>   
                 <div class="paginacao">                    
@@ -119,6 +132,7 @@ and open the template in the editor.
                         <li><a href="index.php">01</a></li>
                         <li><a href="pagina2.php">02</a></li>
                         <li><a href="pagina3.php">03</a></li>
+                        <li><a href="pagina4.php">04</a></li>
                     </ul>                    
                 </div>
             </div>            
