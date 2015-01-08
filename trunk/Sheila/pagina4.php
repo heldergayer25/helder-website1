@@ -21,39 +21,39 @@ and open the template in the editor.
             </section> -->                   
         <section class="wrapper">        
             <div class="broche"></div>            
-            <div class="posts-titulo" >Look - Jardim Bot√¢nico</div>                
+            <div class="posts-titulo" >Look - Jardim Bot‚nico</div>                
             <div class="posts">               
-               <p>Ol√° pessoal, meu primeiro post uhul!
+               <p>Ol· pessoal, meu primeiro post uhul!
                 Estou muito animada com o projeto
                 do blog! Tenho muitas ideias legais,
                 divertidas, e muito loucas para mostrar
-                a voc√™s, espero que curtam.</p>
-                <img src="imagens/posts/fotos/photo1.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>                
-                <p>Ent√£o vamos come√ßar...No √∫ltimo final de 
-                semana fui ao Jardim Bot√¢nico, adoro esse
+                a vocÍs, espero que curtam.</p>
+                <img src="imagens/posts/fotos/photo1.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>                
+                <p>Ent„o vamos comeÁar...No ˙ltimo final de 
+                semana fui ao Jardim Bot‚nico, adoro esse
                 parque, e quando sai um solzinho por aqui
-                tem que aproveitar ao m√°ximo, pois Curitiba
-                √© literalmente uma cidade bipolar hehe.
-                Ent√£o resolvi vestir uma batinha bem
-                fresquinha, uma cal√ßa detonada e meu
+                tem que aproveitar ao m·ximo, pois Curitiba
+                È literalmente uma cidade bipolar hehe.
+                Ent„o resolvi vestir uma batinha bem
+                fresquinha, uma calÁa detonada e meu
                 querido all star.</p>                
-                <img src="imagens/posts/fotos/photo2.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo3.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo4.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo5.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo6.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo7.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo8.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo9.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo10.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo11.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <img src="imagens/posts/fotos/photo12.JPG" alt="Look - Jardim Bot√¢nico" title="Look - Jardim Bot√¢nico"/>
-                <p>Croqui - Reprodu√ß√£o do look Jardim Bot√¢nico</p>
-                <img src="imagens/posts/fotos/photo13.jpg" alt="Croqui - Look Jardim Bot√¢nico" title="Croqui - Look Jardim Bot√¢nico"/>                
-                <p>Bom galera √© isso, vou compartilhar um
-                pouco do meu mundo com voc√™s, das
+                <img src="imagens/posts/fotos/photo2.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo3.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo4.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo5.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo6.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo7.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo8.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo9.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo10.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo11.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <img src="imagens/posts/fotos/photo12.JPG" alt="Look - Jardim Bot‚nico" title="Look - Jardim Bot‚nico"/>
+                <p>Croqui - ReproduÁ„o do look Jardim Bot‚nico</p>
+                <img src="imagens/posts/fotos/photo13.jpg" alt="Croqui - Look Jardim Bot‚nico" title="Croqui - Look Jardim Bot‚nico"/>                
+                <p>Bom galera È isso, vou compartilhar um
+                pouco do meu mundo com vocÍs, das
                 coisas que eu amo e curto em fazer.
-                Espero que gostem e at√© o pr√≥ximo post!</p>                
+                Espero que gostem e atÈ o prÛximo post!</p>                
                 <div class="rodape-posts"></div>
                 <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>     
