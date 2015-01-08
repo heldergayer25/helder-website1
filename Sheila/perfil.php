@@ -18,12 +18,12 @@ and open the template in the editor.
                 <div class="perfil1" style="background-color: #FFF; width: 450px; height: 413px; float: right; z-index: -2; position: relative;">
                     <p id="nome">Sheila Cristina Alves de Arruda,</p> 
                     <p>apelido: Shee. 25 anos, Curitibana, formada em Designer de Moda.
-                        Designer freelancer nas Ã¡reas de moda e grÃ¡fico.</p>
+                        Designer freelancer nas áreas de moda e gráfico.</p>
                 </div>
                 <div class="perfil2" style="background-color: #E9556A; float: left; width: 450px; height: 429px;">
                     <p>Admiradora do mundo da moda, maquiagem, 
                         esmalte, produtos de beleza, livros, desenhos, 
-                        danÃ§a, video game, cinema, sÃ©ries, toys, mÃºsica,
+                        dança, video game, cinema, séries, toys, música,
                         shows, rock and roll, viagens e muito, mas 
                         muuuito chocolate.</p>
                 </div>
