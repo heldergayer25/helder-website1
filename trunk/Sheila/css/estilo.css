@@ -89,7 +89,7 @@ div.perfil1 p#nome { margin-top: 70px; width: 400px; margin-left: 30px; }
 img#perfil2 { float: right; margin-top: -60px; z-index: -1; position: relative; }
 div.perfil2 p { font-size: 25px; color: #FFF; text-align: center; line-height: 40px; margin-top: 40px; width: 300px; margin-left: 75px; }
 
-/*      Formul√°rio Contato - modelo 2*/
+/*      Formul·rio Contato - modelo 2*/
 
 div#fundoContato { background-color: #E9556A; width: 100%; height: 100% }
 div.texto { color: #FFF; width: 450px; float: left; margin-left: 20px; padding-bottom: 20px; }
@@ -102,7 +102,7 @@ div.texto form fieldset select { border: none; float: right; font-size: 15px; fo
 div.texto form fieldset textarea {  width: 310px; float: right; font-family: 'Nunito', sans-serif; color: #E9556A; border: none; font-size: 15px; box-shadow: 5px 5px 10px #333; -webkit-box-shadow: 5px 5px 10px #333; -moz-box-shadow: 5px 5px 10px #333; border-radius: 7px; -webkit-border-radius: 7px; }
 div.texto form input[type = submit] { float: right; border: none; margin-right: 0px; cursor: pointer; background-color: #FFF; color: #E9556A; height: 30px; }
 
-/* Mensagem de erro de valida√ß√£o do formul√°rio pelo Validate */
+/* Mensagem de erro de validaÁ„o do formul·rio pelo Validate */
 #formContato label.error, #formContato input.submit { font-size: 15px; color: #FFFF00; font-weight: 700; float: right; }
 /* Recaptcha */                                                      
 div.texto form div#recaptcha_area { margin-left: 135px; }
@@ -126,7 +126,7 @@ footer p { font-size: 12px; color: #FFF; float: right; margin-right: 60px; margi
 //footer div { background: #E9556A url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; }
 footer div#cartoon_rodape { background: url(../imagens/cartoon_rodape.png) right no-repeat ; height: 59px; width: 35px; float: right; margin-right: 20px; margin-top: -59px;}
 
-/*      Portif√≥lio*/
+/*      PortifÛlio*/
 
 ul.thumbs {
     padding: 0;
@@ -136,7 +136,7 @@ ul.thumbs {
 
 ul.thumbs li {
     display: inline-block;
-    height: 270px; //regula altura das imagens na capa do portif√≥lio
+    height: 270px; //regula altura das imagens na capa do portifÛlio
     overflow: hidden;
     padding: 0;
     float: left;
@@ -336,13 +336,13 @@ ul.thumbs li.content h1{
     color: #491F27;    
 }
 
-/*Aqui vou mandar a sequ√™ncia q os cart√µes
+/*Aqui vou mandar a sequÍncia q os cartıes
 deve ficar na galeria ok?!
-Os q tiverem n√∫meros com (*) seguinifica:
-cart√µes com acabamento em HOTSTAMP COM PECINHA,
-os que tiverem sem ser√° somente: HOTSTAMP COM GLITER.
-ISSO DEVER√Å IR NA LEGENDA EM BAIXO DA FOTO!
-Eu escolhi o efeito do Desenho t√©cnico com borda branca e a legenda
+Os q tiverem n˙meros com (*) seguinifica:
+cartıes com acabamento em HOTSTAMP COM PECINHA,
+os que tiverem sem ser· somente: HOTSTAMP COM GLITER.
+ISSO DEVER¡ IR NA LEGENDA EM BAIXO DA FOTO!
+Eu escolhi o efeito do Desenho tÈcnico com borda branca e a legenda
 em baixo. 
 
 56    134    29     123    77   *114
@@ -370,6 +370,7 @@ div.posts-titulo4 { background: #000 url(../imagens/posts/elementos/caveira-titu
 div.posts-titulo5 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-01112014.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 70px; float: left; }
 div.posts-titulo6 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-20112014.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 120px; line-height: 60px; float: left; }
 div.posts-titulo7 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-11122014.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 120px; line-height: 60px; float: left; }
+div.posts-titulo8 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-27122014.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 120px; line-height: 60px; float: left; }
 div.broche { background: url(../imagens/posts/elementos/broche.png) right no-repeat; width: 300px; height: 508px; float: right; }
 div.rodape-posts { background: url(../imagens/posts/elementos/rodape-posts.jpg) center no-repeat; width: 600px; height: 231px; clear: both;  }
 
