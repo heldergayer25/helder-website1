@@ -21,6 +21,41 @@ and open the template in the editor.
             </section> -->                   
         <section class="wrapper">        
             <div class="broche"></div>
+            <div class="posts-titulo7">&nbsp;&nbsp;&nbsp;&nbsp;O Hobbit: A Batalha dos<br>&nbsp;&nbsp;&nbsp;&nbsp;Cinco Exércitos</div>
+            <div class="posts">
+                <p>Olá Galera!<br>
+                Hoje estou aqui muito surtada hehe, hoje é a estreia do último filme do O Hobbit! A parte boa é que nem acredito que vou assistir esta 
+                semana, a parte ruim é que é o último filme, e da uma dorzinha no coração em saber que ano que vem não terá mais nenhum filme para esperar 
+                do nosso maravilhoso escritor J.R.R Tolkien. Vamos torcer para que a indústria do cinema resolva produzir os filmes dos outros livros do 
+                Tolkien, seria INCRÍVEEEEEL *-*.</p>                
+                <img src="imagens/posts/fotos/photo45.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <p><b>SINOPSE:</b> Após ser expulso da montanha de Erebor, o dragão Smaug ataca com fúria a cidade dos homens que fica próxima da montanha. 
+                Após muita destruição, Bard consegue derrotá-lo. Não demora muito para que a queda de Smaug se espalhe, atraindo os mais variados interessados 
+                nas riquezas que existem dentro de Erebor. Entretanto, Thorin está disposto a tudo para impedir a entrada de elfos, anões e orcs, ainda mais por 
+                ser tomado por uma obsessão crescente pela riqueza à sua volta. Paralelamente a estes eventos, Bilbo Bolseiro e Gandalf tentam impedir a guerra.</p>
+                <img src="imagens/posts/fotos/photo46.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo47.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo48.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo49.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo50.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo51.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo52.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo53.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo54.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo55.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo56.JPG" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>    
+                <p>Trailer</p>
+                <iframe width="600" height="315" src="//www.youtube.com/embed/VKkFW5TTB6g" frameborder="0" allowfullscreen></iframe>                
+                <p>Bom galera é isso, não poderia deixar de passar aqui e fazer um post sobre o que eu adoro que são livros e cinema. Para quem for assistir, 
+                tenham uma boa sessão. Estarei postando a minha critica nas redes sociais.</p>
+                <img src="imagens/posts/fotos/photo57.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>  
+                <p>Até o próximo post!</p>
+                <div class="rodape-posts"></div>
+                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
+            </div>
+            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
+            
+            
             <div class="posts-titulo6">&nbsp;&nbsp;&nbsp;&nbsp;Jogos Vorazes<br>&nbsp;&nbsp;&nbsp;A Esperança Parte I</div>
             <div class="posts">
                 <p>Olá pessoas belezinha?!<br>
@@ -45,46 +80,6 @@ and open the template in the editor.
                 <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>
             <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
-            
-            
-            <div class="posts-titulo5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Books – Os Heróis do Olimpo</div>
-            <div class="posts">
-                <p>Olá pessoas, belezinha?!<br>
-                Quem curtiu Percy Jackson e os Olimpianos com certeza acompanha agora - Os Heróis do Olimpo. Neste mês de Outubro saiu o último livro da série: 
-                O Sangue do Olimpo. A série está na minha lista de livros para leitura, não tive tempo de ler ainda, pois estou terminando a série dos Jogos Vorazes, 
-                estou na parte III do livro: A Esperança e pretendo termina-lo antes da estreia do filme, quem faz coleção sabe como é difícil ler tudo de uma vez só 
-                hehe, então estou indo com calma, mas a cada livro finalizado desta série, vou fazer resenha e dar a minha opinião aqui no blog, aguardem!<br></p>                
-                <p><br>O HERÓI PERDIDO</p>
-                <img src="imagens/posts/fotos/photo30.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>                                
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/o-heroi-perdido/" target="_blank" style="text-decoration: none;">Sinopse</a><br>                
-                <br>O FILHO DE NETUNO</p>
-                <img src="imagens/posts/fotos/photo31.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/o-filho-de-netuno/" target="_blank" style="text-decoration: none;">Sinopse</a><br>                
-                <br>A MARCA DE ATENA</p>
-                <img src="imagens/posts/fotos/photo32.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/a-marca-de-atena/" target="_blank" style="text-decoration: none;">Sinopse</a><br>                
-                <br>A CASA DE HADES</p>
-                <img src="imagens/posts/fotos/photo33.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/a-casa-de-hades/" target="_blank" style="text-decoration: none;">Sinopse</a><br>
-                <br>O SANGUE DO OLIMPO</p>
-                <img src="imagens/posts/fotos/photo34.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/o-sangue-do-olimpo/" target="_blank" style="text-decoration: none;">Sinopse</a><br>
-                <br>COLEÇÃO COMPLETA</p>
-                <img src="imagens/posts/fotos/photo35.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/> 
-                <img src="imagens/posts/fotos/photo36.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/> 
-                <img src="imagens/posts/fotos/photo37.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p> Estou tentando fechar a minha coleção de marcadores desta série, se alguém estiver interessado em trocar marcadores de página, me adiciona no instagram.<br></p>
-                <div style="text-align: center;"> 
-                    <a href="http://instagram.com/sheetaylor" target="_blank"><img src="imagens/icone_instagram.png" /></a>
-                </div>                
-                <p>Ahhhhh, pra galera que tiver blog... deixe nos comentários o endereço, quero  visitar ok?! Bom galera, por hoje é só, até o próximo post.</p>
-                <div class="rodape-posts"></div>
-                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
-            </div>
-            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
-            
-            
-            
             <div class="posts2">                
                 <div class="paginacao-titulo"><p>Posts anteriores</p></div>   
                 <div class="paginacao">                    
@@ -93,6 +88,7 @@ and open the template in the editor.
                         <li><a href="pagina2.php">02</a></li>
                         <li><a href="pagina3.php">03</a></li>
                         <li><a href="pagina4.php">04</a></li>
+                        <li><a href="pagina5.php">05</a></li>
                     </ul>                    
                 </div>
             </div>            
