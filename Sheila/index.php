@@ -38,7 +38,7 @@ and open the template in the editor.
             	<img src="imagens/posts/fotos/photo75.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
             	<p>5 – Katie Cassidy com Michael D.  (Linda, este corte do vestido está maravilhoso, adoro e acompanho o trabalho dela ah anos e atualmente curto muito ela no Arrow).</p>            	
             	<img src="imagens/posts/fotos/photo74.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
-            	<p>Alguns dos modelos que tiveram forte influência?</p>
+            	<p>Alguns dos modelos que tiveram forte influência.</p>
             	<img src="imagens/posts/fotos/photo76.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
             	<img src="imagens/posts/fotos/photo77.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
             	<img src="imagens/posts/fotos/photo78.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
@@ -47,13 +47,13 @@ and open the template in the editor.
             	<img src="imagens/posts/fotos/photo81.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
             	<img src="imagens/posts/fotos/photo82.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
             	<img src="imagens/posts/fotos/photo83.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
-            	<img src="imagens/posts/fotos/photo84.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
-            	<img src="imagens/posts/fotos/photo85.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/> 
+            	<img src="imagens/posts/fotos/photo84.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>            	 
             	<p>No geral, em termos de modelagem, tecido, acessórios deste evento, não foram lá um dos meus favoritos. Mas teve alguns que na minha opinião conseguiram se salvar, 
             	como mostrei no top 5. Um dos casais que estavam sendo bem cobiçados nas lentes dos fotógrafos era o George Clooney e Amal Alamuddin Clooney, que para mim achei os dois, 
-            	bem sem graça, Amal eu não acho ela Linda muito menos aquele look que ela usou, não foi legal! Já pro outro lado o casal Robert Downey Jr. e sua mulher, Susan, formaram um 
-            	casal muito simpático, adorei!<br><br>
-            	Bom pessoal por hoje é só, ate o próximo post!</p>
+            	bem sem graça, Amal eu não acho ela linda muito menos aquele look que ela usou, não foi legal! Já pro outro lado o casal Robert Downey Jr. e sua mulher, Susan, formaram um 
+            	casal muito simpático, adorei!</p>
+            	<img src="imagens/posts/fotos/photo85.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<p><br>Bom pessoal por hoje é só, ate o próximo post!</p>
             	<div class="rodape-posts"></div> 
             	<div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>
