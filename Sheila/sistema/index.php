@@ -23,6 +23,12 @@ and open the template in the editor.
             <div class="clear"></div>
             <br/>                        
             <input type="submit" id="sbEntrar" name="sbEntrar" value="Entrar"  />
-        </form>                
+        </form>          
+        <?php 
+        	//mensagem de erro caso login ou senha sejam inválidos
+        	if(isset($_GET["error"])) {
+        		echo '<h3>Login ou senha inválidos, por favor tente novamente!</h3>';
+        	}
+        ?>              
     </body>
 </html>

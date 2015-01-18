@@ -21,9 +21,8 @@
 	$usuario = $loginDao->logar($login, $senha); 
 	
 	//se o usuário for encontrado seta os valores na sessão e redireciona para página principal
-	//caso contrário redireciona para página de login
-		
-	if($usuario != null) { 
+	//caso contrário redireciona para página de login		
+	if($usuario->getId() != null) { 
 		$_SESSION['login'] = $usuario->getLogin(); 
 		$_SESSION['senha'] = $usuario->getSenha();
 		$_SESSION['nome'] = $usuario->getNome();
@@ -33,9 +32,9 @@
 		unset ($_SESSION['login']); 
 		unset ($_SESSION['senha']); 
 		unset ($_SESSION['nome']);
-		
-		header('location:../index.php'); 
-		
+
+		//passa valor via url indicando o erro no login
+		header('location:../../index.php?error=1'); 		
 	}	
 	
 ?>
