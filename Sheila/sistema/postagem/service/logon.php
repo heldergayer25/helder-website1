@@ -34,7 +34,7 @@
 		unset ($_SESSION['nome']);
 
 		//passa valor via url indicando o erro no login
-		header('location:../../index.php?error=1'); 		
+		header('location:../../index.php?error'); 		
 	}	
 	
 ?>
