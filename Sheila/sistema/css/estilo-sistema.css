@@ -44,5 +44,10 @@ header, nav, footer, section, article, aside { display:block; font-family: 'Nuni
 body { font-family: 'Nunito', sans-serif; background-color: #692630; }
 
 
-div#login { margin:0 auto; padding:0 0px; width: 500px; height: 300px; background-color: #999; float: bottom; margin-top: 200px; }
+div.login { width: 1000px; margin: 0 auto; margin-top: 20%; }
+div.login label { float: left; display: block; clear: both; }
+div.login input { width: 50%; clear: both; }
+div.login input[type=submit] { height: 50px; cursor: pointer; border: none; background-color: #69464B; color: #FFF; clear: both; }
+
+
 

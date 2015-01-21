@@ -14,21 +14,23 @@ and open the template in the editor.
         </script>
     </head>
     <body>          
- 		<h2>Painel de acesso</h2>
-        <form action="./service/logon.php" id="formLogin" name="fornLogin" method="post">
-        	<fieldset>
-            	<label for="txLogin">Login: <input id="txLogin" name="txLogin" type="text" /></label>                            
-                <label for="txSenha">Senha: <input id="txSenha" name="txSenha" type="password" /></label>
-            </fieldset>                            
-            <div class="clear"></div>
-            <br/>                        
-            <input type="submit" id="sbEntrar" name="sbEntrar" value="Entrar"  />
-        </form>          
-        <?php 
-        	//mensagem de erro caso login ou senha sejam inválidos
-        	if(isset($_GET["error"])) {
-        		echo '<h3>Login ou senha inválidos, por favor tente novamente!</h3>';
-        	}
-        ?>              
+    	<div class="login">
+	 		<h2>Painel de acesso</h2>
+	        <form action="./service/logon.php" id="formLogin" name="fornLogin" method="post">
+	        	<fieldset>
+	            	<label for="txLogin">Login: <input id="txLogin" name="txLogin" type="text" /></label>	            	                            
+	                <label for="txSenha">Senha: <input id="txSenha" name="txSenha" type="password" /></label>
+	            </fieldset>                            
+	            <div class="clear"></div>
+	            <br/>                        
+	            <input type="submit" id="sbEntrar" name="sbEntrar" value="Entrar"  />
+	        </form>          
+	        <?php 
+	        	//mensagem de erro caso login ou senha sejam inválidos
+	        	if(isset($_GET["error"])) {
+	        		echo '<h3>Login ou senha inválidos, por favor tente novamente!</h3>';
+	        	}
+	        ?> 
+	    </div>                 
     </body>
 </html>
