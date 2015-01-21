@@ -34,14 +34,14 @@ header, nav, footer, section, article, aside { display:block; font-family: 'Nuni
 .imgLeft, .imgRight { margin-bottom:30px; }
 
 /*	CSS Sprite */	
-//header h1 a, header h2, footer .logoGPA a{ background:url(../imagem/sprite.png) no-repeat; display:block; }
+/*header h1 a, header h2, footer .logoGPA a{ background:url(../imagem/sprite.png) no-repeat; display:block; }
 //header h1 a, header h2, footer .logoGPA a { text-indent:-99999px; }
 // header h1 a { background: url(../imagens/sprite.png) no-repeat; display: block; }
-//header h1 a { text-indent: -99999px; }
+//header h1 a { text-indent: -99999px; }*/
 
 
 /*	Body */
-body { font-family: 'Nunito', sans-serif; }
+body { font-family: 'Nunito', sans-serif; background-color: #692630; }
 
 
 div#login { margin:0 auto; padding:0 0px; width: 500px; height: 300px; background-color: #999; float: bottom; margin-top: 200px; }
