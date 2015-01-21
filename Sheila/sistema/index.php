@@ -7,15 +7,15 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Contato</title>
-        <?php include 'postagem/referencias.php';?>
+        <title>Acesso</title>
+        <?php include './referencias.php';?>
         <script type="text/javascript">
             
         </script>
     </head>
     <body>          
- 		<h2>Painelo de acesso</h2>
-        <form action="./postagem/service/logon.php" id="formLogin" name="fornLogin" method="post">
+ 		<h2>Painel de acesso</h2>
+        <form action="./service/logon.php" id="formLogin" name="fornLogin" method="post">
         	<fieldset>
             	<label for="txLogin">Login: <input id="txLogin" name="txLogin" type="text" /></label>                            
                 <label for="txSenha">Senha: <input id="txSenha" name="txSenha" type="password" /></label>
