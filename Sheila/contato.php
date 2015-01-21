@@ -46,7 +46,7 @@ and open the template in the editor.
                     <div class="clear"></div>
                     <br/>                    
                     <?php
-                        //require_once ('sistema/recaptcha/recaptchalib.php');
+                        //require_once ('sistema/libs/recaptcha/recaptchalib.php');
                         //$publickey = "6LfjD_kSAAAAAA-BpQ5Wey8-T4K1HpH3iIP_1i1H";  // chave pública
                         //echo recaptcha_get_html($publickey);
                     ?>                        

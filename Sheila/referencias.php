@@ -39,5 +39,5 @@
 <script src="js/fontes/Indie_Flower_400.font.js" type="text/javascript"></script>
 
 <?php 
-    require_once './sistema/recaptcha/recaptchalib.php';
+    require_once './sistema/libs/recaptcha/recaptchalib.php';
     
