@@ -14,7 +14,7 @@
  
       $allowedExts = array(".gif", ".jpeg", ".jpg", ".png", ".bmp"); //Extensões permitidas
  
-      $dir = './';
+      $dir = '../../imagens/posts/fotos/';
  
       for($i = 0; $i < count($tmp_name); $i++) {//passa por todos os arquivos
       
