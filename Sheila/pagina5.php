@@ -20,7 +20,37 @@ and open the template in the editor.
             </div>
             </section> -->                   
         <section class="wrapper">        
-            <div class="broche"></div>
+            <div class="broche"></div>            
+            <div class="posts-titulo2" >Slash - World On Fire</div>                
+            <div class="posts">               
+                <p>Olá pessoas, tudo bem?<br>
+                Bom, sabe aquele álbum que teu artista favorito anuncia que em breve estará pronto?! 
+                Pois é foi uma luta e pura ansiedade esperar pelo novo álbum do Slash. 
+                Sou do tipo de fã que sempre espera que o artista me surpreenda ainda mais pelo seu 
+                último trabalho, e quem não espera não é?! E não são todos que conseguem arrancar os meus suspiros...</p>                
+               <img src="imagens/posts/fotos/photo14.jpg" alt="Slash - World On Fire" title="Slash - World On Fire"/>    
+               <p>No dia 15 de setembro foi lançado o terceiro álbum do Slash – World On Fire, com o queridíssimo 
+                Myles Kennedy que assumiu o vocal com categoria e The Conspirators com o Todd Kerns no baixo e Brent 
+                Fitz na bateria. Uma união que espero que dure por um longo tempo, pois os 4 juntos conseguiram fazer a coisa dar certo!</p>
+               <iframe width="600" height="400" src="//www.youtube.com/embed/Z0KrbsvbxtE" frameborder="0" allowfullscreen></iframe>
+               <p>O que dizer do World On Fire? Gente que categoria, o álbum tem cerca de 17 faixas, que para alguns pode ser uma coisa 
+                exaustiva de se ouvir, ou para outros como eu enlouqueceram na quantidade de músicas que o álbum tinha, pois ñ poderia 
+                esperar menos, o álbum é sensacional, as músicas estão bem trabalhadas, riffs, bateria, a técnica, melodia, é um álbum limpo, 
+                gostoso de ouvir e curtir, Slash e seus companheiros de banda se superaram! E vamos ser sinceros, hoje em dia é muito difícil ouvir coisa boa!</p>               
+               <p style="width: 600px; text-align: center; margin-top: 20px; margin-bottom: 0px;">Minha nota sobre o álbum = 9.</p>               
+               <img src="imagens/posts/elementos/maozinha3.png" style="margin-top: 0px; text-align: center; margin-left: 150px;"/>    
+               <p>Como de costume, já separei as minhas favoritas: Shadow life, Wicked stone, Bent to fly, Too far gone, Beneath the savage sun, e a Dirty girl. São muito boas *-*</p>
+               <img src="imagens/posts/fotos/photo15.jpg" alt="Slash - World On Fire" title="Slash - World On Fire"/>    
+               <p>O álbum é simplesmente viciante, e fazia tempo que eu não me animava tanto com um trabalho desse nível! Agora é esperar os caras darem uma passada pelo Brasil, 
+                e que venham logo, pois a menina aqui não é nem um pouco ansiosa haha, se o álbum já é bom, imagina o show ao vivo, né meu povo?!</p>
+               <img src="imagens/posts/fotos/photo16.jpg" alt="Slash - World On Fire" title="Slash - World On Fire"/>                                                               
+                <p>Por hoje é isso pessoal, até o próximo post!</p>                
+                <div class="rodape-posts"></div>
+                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
+            </div>     
+            <!--<div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>-->
+            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
+            
             <div class="posts-titulo" >Look - Jardim Botânico</div>                
             <div class="posts">               
                <p>Olá pessoal, meu primeiro post uhul!

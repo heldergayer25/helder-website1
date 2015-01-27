@@ -37,4 +37,9 @@ CKEDITOR.editorConfig = function( config ) {
 	config.removeDialogTabs = 'image:advanced;link:advanced';
 	
 	config.filebrowserImageBrowseUrl = '../imagens/posts/fotos/';
+	//config.filebrowserBrowseUrl = '../imagens/posts/fotos/';
+	//config.filebrowserWindowFeatures = 'resizable=yes,scrollbars=no';
+	//config.filebrowserBrowseUrl = '/browser/browse.php';
+	//config.filebrowserFlashBrowseUrl = '/browser/browse.php?type=Flash';
+	
 };

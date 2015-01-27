@@ -20,7 +20,38 @@ and open the template in the editor.
             </div>
             </section> -->                   
         <section class="wrapper">                       
-            <div class="broche"></div>   
+            <div class="broche"></div>
+            <div class="posts-titulo10">Miss Universo</div>
+            <div class="posts">
+            	<img src="imagens/posts/fotos/photo86.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<p>Olá galera!<br>
+				O evento da 63ª edição do concurso Miss Universo, realizado em Miami nos EUA neste último 
+				domingo (25), teve a Miss Colômbia, Paulina Vega coroada, Miss Universo 2014.</p>            	
+            	<img src="imagens/posts/fotos/photo87.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo88.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo89.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo90.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo91.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<p>Paulina recebeu a coroa da venezuelana Gabriela Isler, Miss Universo 2013. Paulina tem 22 
+            	anos e nasceu na cidade de Barranquilha, é estudante de administração de empresas e trabalha como modelo.</p>
+            	<img src="imagens/posts/fotos/photo92.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo93.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<p>Em segundo lugar ficou a candidata dos Estados Unidos: Nia Sanchez, em terceiro lugar ficou com a Miss Ucrânia, 
+            	Diana Harkusha, em quarto lugar ficou a Miss Holanda, Yasmin Verheijen e o quinto lugar o da Miss Jamaica, Kaci Fenell.</p>
+            	<img src="imagens/posts/fotos/photo94.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<p>A nossa Miss Brasil Melissa Gurgel ficou entre as 15 semifinalistas, mas foi eliminada após o desfile de trajes de banho. Além da premiação da coroa, teve as premiações:
+				<br>Miss Simpatia: Queen Osem Celestine, da Nigéria.
+				<br>Miss Fotogenia: Gabriela Berrios, de Porto Rico.
+				<br>Miss com Traje Típico: Elvira Devinamira, da Indonésia.</p>            	
+            	<img src="imagens/posts/fotos/photo95.jpg" alt="Miss Universo" title="Miss Universo"/>            	
+            	<p>Sempre acompanhei o Miss Universo pelo único motivo: ver os vestidos incríveis de gala. Parabéns a Paulina, 
+            	ela estava incríveeeel! Pena eu não ter conseguido achar o estilista que fez o Designer do vestido dela. Se alguém 
+            	souber, deixa aqui nos comentários. <br><br>Por hoje é isso galera. Até o próximo post.</p>            
+            <div class="rodape-posts"></div> 
+            	<div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
+            </div>
+            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
+               
             <div class="posts-titulo9">Golden Globe Awards</div>
             <div class="posts">
             	<img src="imagens/posts/fotos/photo70.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
@@ -57,37 +88,8 @@ and open the template in the editor.
             	<div class="rodape-posts"></div> 
             	<div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>
-            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
+            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>            
             
-            <div class="posts-titulo8">Look do dia: <br>Jardineira + Listrado</div>
-            <div class="posts">
-                <p>Olá Galera!<br>
-                Faz um tempinho que estou para postar este look, mas devido há várias estreias recentes de filmes no cinema resolvi adia-la. 
-                Mas agora literalmente no verão resolvi mostrar um look que estará em alta nesta temporada: as jardineiras.</p>
-                <img src="imagens/posts/fotos/photo58.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <p>Já fiz um post aqui contado um pouco mais sobre elas e de várias formas legais de usa-la. Este look optei por um estilo shorts, 
-                na cor preta, pois amooooo preto e não abandono a cor nem no verão hehe.</p>
-                <img src="imagens/posts/fotos/photo59.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo60.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <p>Como preto acaba sendo uma cor mais básica, eu me divirto com as camisetas, neste caso optei por uma listrada azul e branca, 
-                na qual estou apaixonada, gostei tanto que acabei comprando mais uma listrada na cor mais pro salmão, em breve farei look com ela.</p>
-                <img src="imagens/posts/fotos/photo61.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo62.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo63.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>  
-                <p>Como eu sou muito magrela o lado legal de usar listras na horizontal é que dá um efeito que sou mais cheinha, então pretendo 
-                usar muito elas neste verão. </p>
-                <img src="imagens/posts/fotos/photo64.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo65.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo66.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo67.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo68.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo69.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <p>Por hoje é isso pessoal, queria desejar um feliz natal atrasado hehe e um feliz ano novo para os visitantes do meu blog. 
-                Nos vemos em 2015 com muitas novidades por aqui!</p>
-                <div class="rodape-posts"></div>
-                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
-            </div>
-            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
             <div class="posts2">                
                 <div class="paginacao-titulo"><p>Posts anteriores</p></div>   
                 <div class="paginacao">                    
