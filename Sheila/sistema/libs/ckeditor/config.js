@@ -4,6 +4,14 @@
  */
 
 CKEDITOR.editorConfig = function( config ) {
+	
+	config.filebrowserBrowseUrl = 'libs/kcfinder/browse.php?opener=ckeditor&type=files';
+	   config.filebrowserImageBrowseUrl = 'libs/kcfinder/browse.php?opener=ckeditor&type=images';
+	   config.filebrowserFlashBrowseUrl = 'libs/kcfinder/browse.php?opener=ckeditor&type=flash';
+	   config.filebrowserUploadUrl = 'libs/kcfinder/upload.php?opener=ckeditor&type=files';
+	   config.filebrowserImageUploadUrl = 'libs/kcfinder/upload.php?opener=ckeditor&type=images';
+	   config.filebrowserFlashUploadUrl = 'libs/kcfinder/upload.php?opener=ckeditor&type=flash';
+	
 	// Define changes to default configuration here.
 	// For complete reference see:
 	// http://docs.ckeditor.com/#!/api/CKEDITOR.config
@@ -26,6 +34,8 @@ CKEDITOR.editorConfig = function( config ) {
 		{ name: 'about' }
 	];
 
+	
+	
 	// Remove some buttons provided by the standard plugins, which are
 	// not needed in the Standard(s) toolbar.
 	config.removeButtons = 'Underline,Subscript,Superscript';
@@ -36,10 +46,15 @@ CKEDITOR.editorConfig = function( config ) {
 	// Simplify the dialog windows.
 	config.removeDialogTabs = 'image:advanced;link:advanced';
 	
-	config.filebrowserImageBrowseUrl = '../imagens/posts/fotos/';
+	//config.filebrowserImageBrowseUrl = '../imagens/posts/fotos/';
 	//config.filebrowserBrowseUrl = '../imagens/posts/fotos/';
 	//config.filebrowserWindowFeatures = 'resizable=yes,scrollbars=no';
 	//config.filebrowserBrowseUrl = '/browser/browse.php';
 	//config.filebrowserFlashBrowseUrl = '/browser/browse.php?type=Flash';
+	
+	
+	
+		   
+		 
 	
 };
