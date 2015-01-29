@@ -16,6 +16,8 @@
 <script src="../js/plugins/validation/jquery.validate.js" type="text/javascript"></script>
 <script src="./libs/ckeditor/ckeditor.js" type="text/javascript"></script>
 
+
+
 <!-- Add Button helper (this is optional) -->
 <link rel="stylesheet" type="text/css" href="../js/plugins/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" />
 <script type="text/javascript" src="../js/plugins/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>

@@ -25,26 +25,26 @@
     
     	<h2>Novo post</h2>
     		<div class="login">
-		        <form action="" id="formPost" name="formPost" method="post">
+		        <form action="./service/teste.php" id="formPost" name="formPost" method="post">
 		        	<fieldset>
 		        		<input id="txData" name="txData" type="date" placeholder="Data postagem" />
-		            	<input id="txTitulo" name="txTitulo" type="text" placeholder="Título" />		            	
-		            	<textarea id="txTexto" cols="10" rows="6" placeholder="Texto" ></textarea>
+		            	<input id="txTitulo" name="txTitulo" type="text" placeholder="Título" />
 		            	 <textarea name="editor1" id="editor1" rows="10" cols="80">
 			                This is my textarea to be replaced with CKEditor.
 			            </textarea>		
 			            <script type="text/javascript">
 						    //Replace the <textarea id="editor1"> with a CKEditor
 				    	    //instance, using default configuration.
-				        		CKEDITOR.replace('editor1');
+				        	CKEDITOR.replace('editor1');				        			
 				        </script>	
 		            </fieldset>		            
+		            <input type="submit" value="Salvar">
 		        </form> 
 		        <br/>
-		        <form action="./service/upload.php" method="post" enctype="multipart/form-data">
+		        <!--<form action="./service/upload.php" method="post" enctype="multipart/form-data">
 			      <input id="imagensPost" name="imagensPost[]" type="file" multiple="multiple" placeholder="Fotos..." />
 			      <input type="submit" value="Enviar">
-			   </form>
+			   </form>-->
     		</div>    		    
 	         
  		<h2>Home</h2>
