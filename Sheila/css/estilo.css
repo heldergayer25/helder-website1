@@ -361,9 +361,13 @@ em baixo.
 
 div.posts { background-color: #FFF; padding: 20px; width: 600px; float: left; padding-bottom: 40px; }
 div.posts iframe { margin-top: 20px; margin-bottom: 20px; }
-div.posts img { margin-top: 20px; margin-bottom: 20px; }
+/div.posts img { margin-top: 20px; margin-bottom: 20px; }
 div.posts p { color: #000; font-size: 20px; text-align: left; line-height: 40px; float: left; }
-div.posts-titulo { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 70px; float: left; }
+div.posts-titulo { background: #000 url(../imagens/posts/elementos/caveira-data-posts.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 70px; float: left; ma }
+
+/*div.posts-titulo { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 70px; float: left; }*/
+div.posts-titulo span { color: #E9556A; font-size: 18px; position: relative; float: left; line-height: 25px; margin-top: 4px; margin-left: 14px; }
+
 div.posts-titulo2 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-27092014.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 70px; float: left; }
 div.posts-titulo3 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-08102014.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 70px; float: left; }
 div.posts-titulo4 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-20102014.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 70px; float: left; }
@@ -373,16 +377,31 @@ div.posts-titulo7 { background: #000 url(../imagens/posts/elementos/caveira-titu
 div.posts-titulo8 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-27122014.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 120px; line-height: 60px; float: left; }
 div.posts-titulo9 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-14012015.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 60px; float: left; }
 div.posts-titulo10 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-26012015.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 60px; float: left; }
+div.posts-titulo11 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-04022015.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 120px; line-height: 60px; float: left; }
+div.posts-titulo12 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-18022015.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 60px; float: left; }
+div.posts-titulo13 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-04032015.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 120px; line-height: 70px; float: left; }
+div.posts-titulo14 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-10032015.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 70px; line-height: 60px; float: left; }
+div.posts-titulo15 { background: #000 url(../imagens/posts/elementos/caveira-titulo-posts-16032015.png) left no-repeat; padding: 20px; color: #FFF; font-size: 35px; text-align: center; width: 600px; height: 120px; line-height: 60px; float: left; }
 div.broche { background: url(../imagens/posts/elementos/broche.png) right no-repeat; width: 300px; height: 508px; float: right; }
 div.rodape-posts { background: url(../imagens/posts/elementos/rodape-posts.jpg) center no-repeat; width: 600px; height: 231px; clear: both;  }
 
 div.paginacao-titulo p { text-align: center; clear: both; display: block; width: 600px;  margin-bottom: -20px; color: #E9556A; font-size: 25px; margin-bottom: 10px; }
 div.posts2 { padding: 20px; width: 600px; float: left; padding-bottom: 60px; }
 div.paginacao { clear: both; display: block; width: 600px; margin-top: 20px; margin-bottom: -40px; color: #E9556A; height: 120px; position: relative; float: right; text-align: center; }
-div.paginacao ul { margin-left: 210px; }
+div.paginacao ul { margin-left: 90px; }
 div.paginacao ul li { background: url(../imagens/caveira-paginacao.png) right no-repeat; width: 30px; height: 39px; float: left; margin-left: 20px; }
 div.paginacao ul li a { color: #E9556A; text-decoration: none; clear: both; display: block; margin-top: 10px; font-size: 15px; }
 div.paginacao ul li a:visited { color: #9C293A; }
 
 .instagram { background: url(../imagens/icone_instagram.png) no-repeat; margin: 0 auto; width: 40px; height: 40px; }
-//header nav#menu ul li { float: left; margin-right: 15px; background: url(../imagens/caveira.png) right no-repeat; width: 92px; height: 120px; }
+header nav#menu ul li { float: left; margin-right: 15px; background: url(../imagens/caveira.png) right no-repeat; width: 92px; height: 120px; }
+
+
+
+
+
+
+
+
+
+
