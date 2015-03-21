@@ -14,73 +14,83 @@ and open the template in the editor.
         <div id="fb-root"></div>
         <?php include'./cabecalho.php'?>       
         <div id="section_home"></div>     
-            <!--<section class="wrapper">
-                <div class="texto" id="novidades">
-                <h2>EM BREVE, NOVIDADES NO BLOG! </h2>
-            </div>
-            </section> -->                   
+                              
         <section class="wrapper">        
             <div class="broche"></div>
-            <div class="posts-titulo6">&nbsp;&nbsp;&nbsp;&nbsp;Jogos Vorazes<br>&nbsp;&nbsp;&nbsp;A Esperança Parte I</div>
+             
+             
+             <div class="posts-titulo11">Frozen 2: <br>Febre Congelante</div>
             <div class="posts">
-                <p>Olá pessoas belezinha?!<br>
-                Primeiramente peço desculpas pela demora do post, estou trabalhando loucamente nesses últimos 
-                dias, mas a partir do mês que vem vou melhorar isso :)</p>
-                <img src="imagens/posts/fotos/photo38.jpg" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>                                
-                <p>Bom, vamos lá... Não poderia deixar passar em branco, pois ontem foi o lançamento do filme: Jogos Vorazes – A Esperança parte I. Poxa a espera foi uma 
-                tortura, mas vou ter que me aguentar mais um pouco, pois vou assistir só no final de semana por motivos de tempo, então estou me esquivando dos spoiler!</p>                
-                <img src="imagens/posts/fotos/photo39.jpg" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>                                
-                <img src="imagens/posts/fotos/photo40.jpg" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>   
-                <p>Como sou fã da saga eu já li os livros, e estou meio com receio, pelo menos a primeira parte do livro achei meio chato, espero me surpreender um pouco mais no cinema.</p>
-                <img src="imagens/posts/fotos/photo41.JPG" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>                                
-                <img src="imagens/posts/fotos/photo42.JPG" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>               
-                <p>Trailer</p>
-                <iframe width="600" height="315" src="//www.youtube.com/embed/fH94XHAf4es" frameborder="0" allowfullscreen></iframe>
-                <p>Estou que não me aguento de curiosidade! Depois irei postar a minha opinião nas redes sociais.</p>                
-                <img src="imagens/posts/fotos/photo43.jpg" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>                                
-                <p>Para quem for assistir... Boa sessão a todos!</p>
-                <img src="imagens/posts/fotos/photo44.jpg" alt="Jogos Vorazes - A Esperança Parte I" title="Jogos Vorazes - A Esperança Parte I"/>                                
-                <p>Por hoje é isso, até o próximo post!</p>
-                <div class="rodape-posts"></div>
-                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
+            	<img src="imagens/posts/fotos/photo96.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<p>Olá galera!<br>
+            	Quem conhece esta frase: oi eu sou Olaf e gosto de abraços quentinhos?! Quem não assistiu o Frozen: Uma Aventura Congelante, corre na locadora, baixa ou 
+            	compre o dvd para assistir, este desenho é maravilindo!</p>
+            	<img src="imagens/posts/fotos/photo97.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<p>Sou apaixonada por desenhos, animações, foi ai q fiz faculdade de Designer porque amo desenhar. Frozen foi a animação de maior bilheteria dos últimos tempos, 
+            	também, quem não deseja um Olaf, um boneco de neve falante?! Eu, eu, eu!
+            	<br><br>
+            	A Walt Disney Studios liberou esta semana algumas imagens do curta metragem Frozen: Febre Congelante, que começará a ser exibido nos cinemas brasileiros em 2 de 
+            	abril, antes do filme Cinderela, da Disney. A história é sobre o aniversário de Anna, quando Elsa e Kristoff resolvem dar a Anna uma festa de aniversário no reino 
+            	em Arendelle, mas os poderes congelantes de Elsa podem prejudicar a festa da querida Anna.</p>
+            	<img src="imagens/posts/fotos/photo98.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<img src="imagens/posts/fotos/photo99.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<img src="imagens/posts/fotos/photo100.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<img src="imagens/posts/fotos/photo101.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<img src="imagens/posts/fotos/photo102.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<img src="imagens/posts/fotos/photo103.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<img src="imagens/posts/fotos/photo104.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<img src="imagens/posts/fotos/photo105.jpg" alt="Frozen 2: Febre Congelante" title="Frozen 2: Febre Congelante"/>
+            	<p>Ahhhh estou muito curiosa, já estava animada para o filme novo da Cinderela, sabendo desta novidade irei mais empolgada do que nunca, motivo: sou apaixonada pelo Olaf haha.
+            	<br><br>TEASER:</p>
+            	<iframe width="600" height="315" src="https://www.youtube.com/embed/cihZahFgTgs" frameborder="0" allowfullscreen></iframe>            	            	
+            	<p>Galera é isso, até o próximo post.</p>
+            	<div class="rodape-posts"></div> 
+            	<div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>
             <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
-            
-            <div class="posts-titulo5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Books – Os Heróis do Olimpo</div>
+             
+             
+            <div class="posts-titulo10">Miss Universo</div>
             <div class="posts">
-                <p>Olá pessoas, belezinha?!<br>
-                Quem curtiu Percy Jackson e os Olimpianos com certeza acompanha agora - Os Heróis do Olimpo. Neste mês de Outubro saiu o último livro da série: 
-                O Sangue do Olimpo. A série está na minha lista de livros para leitura, não tive tempo de ler ainda, pois estou terminando a série dos Jogos Vorazes, 
-                estou na parte III do livro: A Esperança e pretendo termina-lo antes da estreia do filme, quem faz coleção sabe como é difícil ler tudo de uma vez só 
-                hehe, então estou indo com calma, mas a cada livro finalizado desta série, vou fazer resenha e dar a minha opinião aqui no blog, aguardem!<br></p>                
-                <p><br>O HERÓI PERDIDO</p>
-                <img src="imagens/posts/fotos/photo30.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>                                
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/o-heroi-perdido/" target="_blank" style="text-decoration: none;">Sinopse</a><br>                
-                <br>O FILHO DE NETUNO</p>
-                <img src="imagens/posts/fotos/photo31.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/o-filho-de-netuno/" target="_blank" style="text-decoration: none;">Sinopse</a><br>                
-                <br>A MARCA DE ATENA</p>
-                <img src="imagens/posts/fotos/photo32.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/a-marca-de-atena/" target="_blank" style="text-decoration: none;">Sinopse</a><br>                
-                <br>A CASA DE HADES</p>
-                <img src="imagens/posts/fotos/photo33.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/a-casa-de-hades/" target="_blank" style="text-decoration: none;">Sinopse</a><br>
-                <br>O SANGUE DO OLIMPO</p>
-                <img src="imagens/posts/fotos/photo34.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p><a href="http://www.osheroisdoolimpo.com.br/livro/o-sangue-do-olimpo/" target="_blank" style="text-decoration: none;">Sinopse</a><br>
-                <br>COLEÇÃO COMPLETA</p>
-                <img src="imagens/posts/fotos/photo35.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/> 
-                <img src="imagens/posts/fotos/photo36.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/> 
-                <img src="imagens/posts/fotos/photo37.JPG" alt="Books – Os Heróis do Olimpo" title="Books – Os Heróis do Olimpo"/>    
-                <p> Estou tentando fechar a minha coleção de marcadores desta série, se alguém estiver interessado em trocar marcadores de página, me adiciona no instagram.<br></p>
-                <div style="text-align: center;"> 
-                    <a href="http://instagram.com/sheetaylor" target="_blank"><img src="imagens/icone_instagram.png" /></a>
-                </div>                
-                <p>Ahhhhh, pra galera que tiver blog... deixe nos comentários o endereço, quero  visitar ok?! Bom galera, por hoje é só, até o próximo post.</p>
-                <div class="rodape-posts"></div>
-                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
+            	<img src="imagens/posts/fotos/photo86.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<p>Olá galera!<br>
+				O evento da 63ª edição do concurso Miss Universo, realizado em Miami nos EUA neste último 
+				domingo (25), teve a Miss Colômbia, Paulina Vega coroada, Miss Universo 2014.</p>            	
+            	<img src="imagens/posts/fotos/photo87.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo88.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo89.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo90.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo91.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<p>Paulina recebeu a coroa da venezuelana Gabriela Isler, Miss Universo 2013. Paulina tem 22 
+            	anos e nasceu na cidade de Barranquilha, é estudante de administração de empresas e trabalha como modelo.</p>
+            	<img src="imagens/posts/fotos/photo92.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<img src="imagens/posts/fotos/photo93.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<p>Em segundo lugar ficou a candidata dos Estados Unidos: Nia Sanchez, em terceiro lugar ficou com a Miss Ucrânia, 
+            	Diana Harkusha, em quarto lugar ficou a Miss Holanda, Yasmin Verheijen e o quinto lugar o da Miss Jamaica, Kaci Fenell.</p>
+            	<img src="imagens/posts/fotos/photo94.jpg" alt="Miss Universo" title="Miss Universo"/>
+            	<p>A nossa Miss Brasil Melissa Gurgel ficou entre as 15 semifinalistas, mas foi eliminada após o desfile de trajes de banho. Além da premiação da coroa, teve as premiações:
+				<br>Miss Simpatia: Queen Osem Celestine, da Nigéria.
+				<br>Miss Fotogenia: Gabriela Berrios, de Porto Rico.
+				<br>Miss com Traje Típico: Elvira Devinamira, da Indonésia.</p>            	
+            	<img src="imagens/posts/fotos/photo95.jpg" alt="Miss Universo" title="Miss Universo"/>            	
+            	<p>Sempre acompanhei o Miss Universo pelo único motivo: ver os vestidos incríveis de gala. Parabéns a Paulina, 
+            	ela estava incríveeeel! Pena eu não ter conseguido achar o estilista que fez o Designer do vestido dela. Se alguém 
+            	souber, deixa aqui nos comentários. <br><br>Por hoje é isso galera. Até o próximo post.</p>            
+            	<div class="rodape-posts"></div> 
+            	<div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>
-            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>            
+            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>       
+            
+            
+            
+            
+            
+            
+            
+            
+            
+             
+                        
                        
             <div class="posts2">                
                 <div class="paginacao-titulo"><p>Posts anteriores</p></div>   
@@ -91,6 +101,9 @@ and open the template in the editor.
                         <li><a href="pagina3.php">03</a></li>
                         <li><a href="pagina4.php">04</a></li>
                         <li><a href="pagina5.php">05</a></li>
+                        <li><a href="pagina6.php">06</a></li>
+                        <li><a href="pagina7.php">07</a></li>
+                        <li><a href="pagina8.php">08</a></li>
                     </ul>                    
                 </div>
             </div>            

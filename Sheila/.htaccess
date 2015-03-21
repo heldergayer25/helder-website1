@@ -1,4 +1,11 @@
 # Do not remove this line or mod_rewrite rules and search engine friendly URLs will stop working
-RewriteBase /
+#RewriteBase /
 # Muda o arquivo de erro 404
-ErrorDocument 404 /erro404.php
+
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+
+#ErrorDocument 404 /erro404.php

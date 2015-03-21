@@ -9,6 +9,8 @@
 	//Funções executadas ao iniciar a página                       
 	$(function(){		
                         
+
+		
                 //Facebook
                 $(function(d, s, id) {
                   var js, fjs = d.getElementsByTagName(s)[0];

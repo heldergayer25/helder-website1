@@ -14,104 +14,95 @@ and open the template in the editor.
         <div id="fb-root"></div>
         <?php include'./cabecalho.php'?>       
         <div id="section_home"></div>     
-            <!--<section class="wrapper">
-                <div class="texto" id="novidades">
-                <h2>EM BREVE, NOVIDADES NO BLOG! </h2>
-            </div>
-            </section> -->                   
+                               
         <section class="wrapper">        
-            <div class="broche"></div>  
-            <div class="posts-titulo4" >Séries</div>
+            <div class="broche"></div>
+            
+            
+            <div class="posts-titulo9">Golden Globe Awards</div>
             <div class="posts">
-                <p>Olá pessoas, tudo bem?<br>
-                Hoje vou falar um pouco das novas séries que entraram no ar, das quais irei acompanhar, pois simplesmente adoreeeei! E minhas 
-                séries favoritas do momento, das quais já vinha acompanhando antes. Será um resumo, pois poderia escrever dez páginas só sobre 
-                este assunto e o post iria ficar gigante e não queremos isto hehe.<br>
-                Das novas séries, vamos começar com a <b>FOREVER:</b></p>
-                <img src="imagens/posts/fotos/photo22.jpg" alt="Séries" title="Séries"/>    
-                <p>A história de Henry Morgan, ele é um médico legista da cidade de Nova York, ele estuda os casos das mortes de seus pacientes 
-                e ajuda a detetive Jo Martínez a desvendar os crimes da cidade. Morgan possui uma espécie de maldição: a imortalidade, toda vez 
-                que morre ele retorna a vida, tentando desvendar a causa da sua imortalidade. A única pessoa que sabe seu segredo é seu amigo confidente Abe.<br>
-                Estou curtindo muito, ela tem cerca de 40 minutos e acontecem muitas coisas nesses 40 minutos hehe, é o tipo de série que ñ da pra perde um segundo, 
-                assim como o Morgan tenta desvendar os crimes por cada detalhe da investigação, nós telespectadores não podemos perder nada, se não no final do capítulo 
-                tu fica completamente perdido.<br></p>
-                <p><b>SELFIE</b></p>
-                <img src="imagens/posts/fotos/photo23.jpg" alt="Séries" title="Séries"/>    
-                <p>Conta à história de Eliza Dooley, uma garota obcecada pelas redes sociais e o número de seguidores que tem em cada uma delas... alguém se identifica ai? 
-                Mas ela percebe que ter amigos virtuais, não significa que eles são realmente seus amigos. Só e sem amigos reais, decide procurar ajuda com o especialista 
-                Henry Higenbottam da empresa aonde trabalha para dar uma inovada em sua imagem, mudando seu comportamento e se adaptando a sua realidade fora da internet.<br>
-                Eu realmente assisti essa série pelo simples fato de se tratar sobre redes virtuais, um vício hoje em dia, aonde as pessoas se preocupam muito com os números 
-                de seguidores do que a qualidade de suas verdadeiras amizades! Tirando o fato que é suuuper divertido.<br></p>
-                <p><b>GOTHAM</b></p>
-                <img src="imagens/posts/fotos/photo24.jpg" alt="Séries" title="Séries"/>    
-                <p>Antes do Batman... Gotham conta as histórias de alguns personagens que no futuro se tornaram os vilões que conhecemos hoje em dia da DC Comics, de como se 
-                fortaleceram após a morte dos pais de Bruce Wayne, e a aliança que nasce entre o menino e o detetive Gordon.<br>
-                Bom nem preciso dizer que sou viciada em histórias em quadrinhos, adoro desenho, e adoro ainda mais quando eles viram filmes e séries. O legal de séries que 
-                estou percebendo é que nelas vêm muito mais detalhes dos personagens e simplesmente surto com isso hehe.<br></p>
-                <p><b>THE FLASH</b></p>
-                <img src="imagens/posts/fotos/photo25.jpg" alt="Séries" title="Séries"/>    
-                <p>Conta á história do homem mais rápido do mundo, aborda a vida de Barry Allen que deis da tempestade elétrica que ocorreu em sua cidade e que foi atingido por
-                um dos raios, descobriu ter uma super velocidade. Deis de então vem testando suas novas habilidades com a ajuda do empresário Harrison Wells, Caitlin Snow 
-                especialista em biogenética e do Cisco Ramon gênio da informática.<br>
-                Pense na pessoinha empolgada quando descobriu que sairia uma nova série de mais um herói da DC comics?! Com a abordagem do estilo do Arrow! Mas tenho que ser 
-                sincera, por mais empolgada que fiquei... Nos dois episódios que já assisti, achei que a história está passando muuuuito rápido (ok, a série se chama - The Flash 
-                e o cara é super veloz), mas a história não precisa correr junto com ele! Achei que não foram muito ricos nos detalhes e estou achando muito forçado! Bom, vamos 
-                esperar os próximos capítulos, e estou ansiosa para o capitulo do qual o Arrow fará participação *-*<br></p>
-                <p><b>CONSTANTINE</b></p>
-                <img src="imagens/posts/fotos/photo26.jpg" alt="Séries" title="Séries"/>    
-                <p>Baseado nos personagens que aparecem na série de quadrinhos Hellblazer publicada pela DC Comics, a série vai focar John Constantine, um exorcista escuro, oculto 
-                detetive e vigarista que está lutando com seus pecados passados, enquanto ele tenta proteger a humanidade de uma ameaça sobrenatural.<br>
-                Galera essa série só estreia dia 24 de Outubro, só que o episódio piloto vazou na internet, então a pessoinha aqui já conferiu o primeiro capitulo hehe, e vou confessar 
-                novamente... Acredito que esta série irá substituir a Supernatural que eu estava acompanhando. Assisti o primeiro episódio de Supernatural da décima temporada, e gente 
-                acho que não tem mais salvação! Curti até quinta temporada, depois a série perdeu totalmente o foco e a graça. Minha opinião!<br>
-                Das séries que já venho acompanhando.<br></p>
-                <p><b>THE ORIGINALS</b></p>
-                <img src="imagens/posts/fotos/photo27.jpg" alt="Séries" title="Séries"/>    
-                <p>Conta á história dos vampiros Originais na cidade de Nova Orleans. Na segunda temporada os inimigos dos vampiros vão além dos lobisomens. Tem mais problemas, vindo por ai. 
-                Além dos últimos acontecimentos sobre o nascimento da Hope (filha do Klaus e Hayley), na qual tentam proteger a pequena para uma vida melhor, longe das bruxas, Hayley 
-                tenta se adaptar à vida de híbrida.<br>
-                A primeira temporada foi muito louca, e tenho que ser sincera novamente... Literalmente larguei The Vampire Diaires, acho que depois que a Elena virou vampira tudo perdeu a 
-                graça, e como a história do the Original acontece na mesma sequência, esta muito mais interessante! A segunda temporada promete uhul!<br></p>
-                <p><b>THE BIG BANG THEORY</b></p>
-                <img src="imagens/posts/fotos/photo28.jpg" alt="Séries" title="Séries"/>   
-                <p>Oitava temporada terá o retorno da história de Leonard e Penny que resolveram selar o compromisso, e como Sheldon irá se adaptar a essas mudanças.<br>
-                Acredito que a maioria é fã dessa série, eu adoro esses cientistas brilhantes das quais são uns tapados nos assuntos de relacionamentos.<br></p>     
-                <p><b>ARROW</b></p>
-                <img src="imagens/posts/fotos/photo29.jpg" alt="Séries" title="Séries"/>   
-                <p>Depois de ficar preso numa ilha “deserta” por cinco anos e ter passado pelas piores experiências, o bilionário Oliver Queen retorna a Starling City com habilidades letais 
-                no combate a injustiça na sua cidade. Na terceira temporada, apareceram novos vilões, mas ele não estará sozinho nesta empreiteira. Com a ajuda da equipe, John Diggle, Felicity 
-                Smoak, Roy Harper e a ajuda interna do Capitão Lance, o arqueiro terá que enfrentar mais problemas em Starling City. Além disto, terá que lidar com a sua meia irmã Thea Queen que 
-                se encontra com o seu verdadeiro pai.<br>
-                De longe minha série favorita do momento! Cada temporada fica cada vez melhor, e vem muita coisa sinistra por ai, estou muito curiosa hehe!<br></p>                
-                <p>Bom pessoal por hoje é só, ate o próximo post!</p>                
-                <div class="rodape-posts"></div>
-                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
+            	<img src="imagens/posts/fotos/photo70.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<p>Olá Galera!<br>
+            	No post de hoje vou mostrar alguns dos looks das celebridades no red carpet que participaram do evento Golden Globe Awards 2015, 
+            	realizado no último domingo no hotel Beverly Hilton – Los Angeles.<br><br>
+            	Top 5, meus favoritos:<br></p>
+            	<p>1- Emma Stone com Lanvin (Adoro ela, simplesmente linda).</p>
+            	<img src="imagens/posts/fotos/photo71.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<p>2- Jennifer Lopez com Zuhair Murad (Modelagem e tecido maravilhoso)</p>            	
+            	<img src="imagens/posts/fotos/photo72.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<p>3 - Dakota Johnson com Chanel (Amei o tecido)</p>
+            	<img src="imagens/posts/fotos/photo73.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<p>4- Kelly Osbourne com Georges Chakra (Adoro o estilo da Kelly, por ser rock and Roll)</p>
+            	<img src="imagens/posts/fotos/photo75.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<p>5 – Katie Cassidy com Michael D.  (Linda, este corte do vestido está maravilhoso, adoro e acompanho o trabalho dela ah anos e atualmente curto muito ela no Arrow).</p>            	
+            	<img src="imagens/posts/fotos/photo74.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<p>Alguns dos modelos que tiveram forte influência.</p>
+            	<img src="imagens/posts/fotos/photo76.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<img src="imagens/posts/fotos/photo77.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<img src="imagens/posts/fotos/photo78.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<img src="imagens/posts/fotos/photo79.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<img src="imagens/posts/fotos/photo80.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<img src="imagens/posts/fotos/photo81.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<img src="imagens/posts/fotos/photo82.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<img src="imagens/posts/fotos/photo83.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<img src="imagens/posts/fotos/photo84.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>            	 
+            	<p>No geral, em termos de modelagem, tecido, acessórios deste evento, não foram lá um dos meus favoritos. Mas teve alguns que na minha opinião conseguiram se salvar, 
+            	como mostrei no top 5. Um dos casais que estavam sendo bem cobiçados nas lentes dos fotógrafos era o George Clooney e Amal Alamuddin Clooney, que para mim achei os dois, 
+            	bem sem graça, Amal eu não acho ela linda muito menos aquele look que ela usou, não foi legal! Já pro outro lado o casal Robert Downey Jr. e sua mulher, Susan, formaram um 
+            	casal muito simpático, adorei!</p>
+            	<img src="imagens/posts/fotos/photo85.jpg" alt="Golden Globe Awards" title="Golden Globe Awards"/>
+            	<p><br>Bom pessoal por hoje é só, ate o próximo post!</p>
+            	<div class="rodape-posts"></div> 
+            	<div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>
             <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
             
-            <div class="posts-titulo3" >Jardineira</div>
+            
+            
+           <div class="posts-titulo7">&nbsp;&nbsp;&nbsp;&nbsp;O Hobbit: A Batalha dos<br>&nbsp;&nbsp;&nbsp;&nbsp;Cinco Exércitos</div>
             <div class="posts">
-                <img src="imagens/posts/fotos/photo17.jpg" alt="Jardineira" title="Jardineira"/>    
-                <p>Olá pessoas, tudo bem?<br>
-                Olha quem voltou direto dos anos 90... Adoooro essa época... Um simples uniforme de operário, que acabou virando moda 
-                na década de 90 está voltando com tudo para a próxima estação. Já usei muuuito e curto tanto no modelo em calça e shorts.<br>
-                A jardineira com uma camiseta básica e um tênis estiloso, é a minha combinação favorita, o look fica confortável e despojado, 
-                e já que o look fica no básico é nos acessórios que vai dar um toque final. Fica a dica :)<br>
-                Separei alguns exemplos:</p>                
-                <img src="imagens/posts/fotos/photo18.jpg" alt="Jardineira" title="Jardineira"/>  
-                <p>Camiseta colorida, estampada, camisa, tricô, blusa, cropped, blazer, sapato, bota, tênis, sapatilha, alpargata, sandália e 
-                rasteirinha. Depende de você e seus acessórios, que vão completa-la, com um estilo mais despojado, ou mais sofisticado.</p>
-                <img src="imagens/posts/fotos/photo19.jpg" alt="Jardineira" title="Jardineira"/>    
-                <p>Cores, texturas e modelagem, o diferencial!</p>
-                <img src="imagens/posts/fotos/photo20.jpg" alt="Jardineira" title="Jardineira"/> 
-                <p>Estampado e divertido, invista com peças mais básicas.</p>
-                <img src="imagens/posts/fotos/photo21.jpg" alt="Jardineira" title="Jardineira"/>  
-                <p>Por hoje é isso pessoal, até o próximo post!</p>                
+                <p>Olá Galera!<br>
+                Hoje estou aqui muito surtada hehe, hoje é a estreia do último filme do O Hobbit! A parte boa é que nem acredito que vou assistir esta 
+                semana, a parte ruim é que é o último filme, e da uma dorzinha no coração em saber que ano que vem não terá mais nenhum filme para esperar 
+                do nosso maravilhoso escritor J.R.R Tolkien. Vamos torcer para que a indústria do cinema resolva produzir os filmes dos outros livros do 
+                Tolkien, seria INCRÍVEEEEEL *-*.</p>                
+                <img src="imagens/posts/fotos/photo45.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <p><b>SINOPSE:</b> Após ser expulso da montanha de Erebor, o dragão Smaug ataca com fúria a cidade dos homens que fica próxima da montanha. 
+                Após muita destruição, Bard consegue derrotá-lo. Não demora muito para que a queda de Smaug se espalhe, atraindo os mais variados interessados 
+                nas riquezas que existem dentro de Erebor. Entretanto, Thorin está disposto a tudo para impedir a entrada de elfos, anões e orcs, ainda mais por 
+                ser tomado por uma obsessão crescente pela riqueza à sua volta. Paralelamente a estes eventos, Bilbo Bolseiro e Gandalf tentam impedir a guerra.</p>
+                <img src="imagens/posts/fotos/photo46.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo47.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo48.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo49.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo50.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo51.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo52.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo53.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo54.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo55.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
+                <img src="imagens/posts/fotos/photo56.JPG" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>    
+                <p>Trailer</p>
+                <iframe width="600" height="315" src="//www.youtube.com/embed/VKkFW5TTB6g" frameborder="0" allowfullscreen></iframe>                
+                <p>Bom galera é isso, não poderia deixar de passar aqui e fazer um post sobre o que eu adoro que são livros e cinema. Para quem for assistir, 
+                tenham uma boa sessão. Estarei postando a minha critica nas redes sociais.</p>
+                <img src="imagens/posts/fotos/photo57.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>  
+                <p>Até o próximo post!</p>
                 <div class="rodape-posts"></div>
                 <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
-            </div>               
-            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>            
-                                             
+            </div>
+            <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div> 
+            
+            
+            
+            
+            
+             
+            
+              
+            
+                        
+                                                         
             <div class="posts2">                
                 <div class="paginacao-titulo"><p>Posts anteriores</p></div>   
                 <div class="paginacao">                    
@@ -121,6 +112,9 @@ and open the template in the editor.
                         <li><a href="pagina3.php">03</a></li>
                         <li><a href="pagina4.php">04</a></li>
                         <li><a href="pagina5.php">05</a></li>
+                        <li><a href="pagina6.php">06</a></li>
+                        <li><a href="pagina7.php">07</a></li>
+                        <li><a href="pagina8.php">08</a></li>
                     </ul>                    
                 </div>
             </div>            

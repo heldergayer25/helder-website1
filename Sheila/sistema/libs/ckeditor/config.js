@@ -53,7 +53,7 @@ CKEDITOR.editorConfig = function( config ) {
 	//config.filebrowserFlashBrowseUrl = '/browser/browse.php?type=Flash';
 	
 	
-	
+	config.height = '20em';
 		   
 		 
 	

@@ -14,77 +14,82 @@ and open the template in the editor.
         <div id="fb-root"></div>
         <?php include'./cabecalho.php'?>       
         <div id="section_home"></div>     
-            <!--<section class="wrapper">
-                <div class="texto" id="novidades">
-                <h2>EM BREVE, NOVIDADES NO BLOG! </h2>
-            </div>
-            </section> -->                   
+                          
         <section class="wrapper">        
             <div class="broche"></div>
-            <div class="posts-titulo8">Look do dia: <br>Jardineira + Listrado</div>
-            <div class="posts">
-                <p>Olá Galera!<br>
-                Faz um tempinho que estou para postar este look, mas devido há várias estreias recentes de filmes no cinema resolvi adia-la. 
-                Mas agora literalmente no verão resolvi mostrar um look que estará em alta nesta temporada: as jardineiras.</p>
-                <img src="imagens/posts/fotos/photo58.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <p>Já fiz um post aqui contado um pouco mais sobre elas e de várias formas legais de usa-la. Este look optei por um estilo shorts, 
-                na cor preta, pois amooooo preto e não abandono a cor nem no verão hehe.</p>
-                <img src="imagens/posts/fotos/photo59.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo60.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <p>Como preto acaba sendo uma cor mais básica, eu me divirto com as camisetas, neste caso optei por uma listrada azul e branca, 
-                na qual estou apaixonada, gostei tanto que acabei comprando mais uma listrada na cor mais pro salmão, em breve farei look com ela.</p>
-                <img src="imagens/posts/fotos/photo61.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo62.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo63.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>  
-                <p>Como eu sou muito magrela o lado legal de usar listras na horizontal é que dá um efeito que sou mais cheinha, então pretendo 
-                usar muito elas neste verão. </p>
-                <img src="imagens/posts/fotos/photo64.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo65.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo66.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo67.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo68.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <img src="imagens/posts/fotos/photo69.JPG" alt="Look do dia: Jardineira + Listrado" title="Look do dia: Jardineira + Listrado"/>                                
-                <p>Por hoje é isso pessoal, queria desejar um feliz natal atrasado hehe e um feliz ano novo para os visitantes do meu blog. 
-                Nos vemos em 2015 com muitas novidades por aqui!</p>
-                <div class="rodape-posts"></div>
-                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
+            
+             <div class="posts-titulo13">Moschino Fall Winter<br/>2015</div>
+            <div class="posts">            	        
+            <img src="imagens/posts/fotos/photo116.jpg" alt="Moschino Fall Winter 2015" title="Moschino Fall Winter 2015" />
+            <p>Olá galera.<br/>
+			O desfile da MOSCHINO no MFW foi simplesmente incrível! Gente estou enlouquecida, não lembro de ter ficado tão empolgada em ter várias peças de uma coleção. 
+			Os detalhes, o que foram os detalhes minha gente?! O Jeremy Scott foi muito criativo em absolutamente em todos os detalhes. A coleção teve uma pegada dos 
+			anos 90. Bora conferir!</p>
+            <img src="imagens/posts/fotos/photo117.jpg" alt="Moschino Fall Winter 2015" title="Moschino Fall Winter 2015-2016" />
+            <p>Looks com cores fortes, estilo street e uma modelagem incrível!</p>
+            <img src="imagens/posts/fotos/photo118.jpg" alt="Moschino Fall Winter 2015" title="Moschino Fall Winter 2015-2016" />
+            <p>Estilo sport invadiu a passarela com estampas dos cartoons do Looney Tunes, quem lembra da época? Hehe</p>
+            <img src="imagens/posts/fotos/photo119.jpg" alt="Moschino Fall Winter 2015" title="Moschino Fall Winter 2015-2016" />
+            <img src="imagens/posts/fotos/photo120.jpg" alt="Moschino Fall Winter 2015" title="Moschino Fall Winter 2015-2016" />
+            <p>Um pouco de glamour por favor, mas este é definitivamente despojado, detalhes suuuuper legais dos jeans do avesso, de ponta cabeça, as sobreposições foram 
+            os que mais achei criativo, moletons com jeans? Yeees, tá valendo!</p>
+            <img src="imagens/posts/fotos/photo121.jpg" alt="Moschino Fall Winter 2015" title="Moschino Fall Winter 2015-2016" />
+            <p>Tem um evento mais formal? Que tal um vestido pichado descontraído para uma noite de gala?!</p>
+            <img src="imagens/posts/fotos/photo122.jpg" alt="Moschino Fall Winter 2015" title="Moschino Fall Winter 2015-2016" />
+            <p>Acessórios teve sua grande importância como: bolsas em formas de boné, urso, spray, All Star de salto, correntes, anéis, e muitos colares deram um toque valioso no look.</p>
+            <img src="imagens/posts/fotos/photo123.jpg" alt="Moschino Fall Winter 2015" title="Moschino Fall Winter 2015-2016" />
+            <p>Para quem quiser conferir o desfile:</p>
+            <iframe width="600" height="315" src="https://www.youtube.com/embed/n9Gpers9dm0" frameborder="0" allowfullscreen></iframe>
+            <p>Bom galera, é isso! Até o próximo post.</p>
+            <div class="rodape-posts"></div> 
+            <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>
             <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
             
-            <div class="posts-titulo7">&nbsp;&nbsp;&nbsp;&nbsp;O Hobbit: A Batalha dos<br>&nbsp;&nbsp;&nbsp;&nbsp;Cinco Exércitos</div>
+            
+            
+            
+             <div class="posts-titulo12">Louca por chocolate!</div>
             <div class="posts">
-                <p>Olá Galera!<br>
-                Hoje estou aqui muito surtada hehe, hoje é a estreia do último filme do O Hobbit! A parte boa é que nem acredito que vou assistir esta 
-                semana, a parte ruim é que é o último filme, e da uma dorzinha no coração em saber que ano que vem não terá mais nenhum filme para esperar 
-                do nosso maravilhoso escritor J.R.R Tolkien. Vamos torcer para que a indústria do cinema resolva produzir os filmes dos outros livros do 
-                Tolkien, seria INCRÍVEEEEEL *-*.</p>                
-                <img src="imagens/posts/fotos/photo45.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <p><b>SINOPSE:</b> Após ser expulso da montanha de Erebor, o dragão Smaug ataca com fúria a cidade dos homens que fica próxima da montanha. 
-                Após muita destruição, Bard consegue derrotá-lo. Não demora muito para que a queda de Smaug se espalhe, atraindo os mais variados interessados 
-                nas riquezas que existem dentro de Erebor. Entretanto, Thorin está disposto a tudo para impedir a entrada de elfos, anões e orcs, ainda mais por 
-                ser tomado por uma obsessão crescente pela riqueza à sua volta. Paralelamente a estes eventos, Bilbo Bolseiro e Gandalf tentam impedir a guerra.</p>
-                <img src="imagens/posts/fotos/photo46.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo47.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo48.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo49.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo50.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo51.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo52.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo53.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo54.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo55.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>                                
-                <img src="imagens/posts/fotos/photo56.JPG" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>    
-                <p>Trailer</p>
-                <iframe width="600" height="315" src="//www.youtube.com/embed/VKkFW5TTB6g" frameborder="0" allowfullscreen></iframe>                
-                <p>Bom galera é isso, não poderia deixar de passar aqui e fazer um post sobre o que eu adoro que são livros e cinema. Para quem for assistir, 
-                tenham uma boa sessão. Estarei postando a minha critica nas redes sociais.</p>
-                <img src="imagens/posts/fotos/photo57.jpg" alt="O Hobbit: A Batalha dos Cinco Exércitos" title="O Hobbit: A Batalha dos Cinco Exércitos"/>  
-                <p>Até o próximo post!</p>
-                <div class="rodape-posts"></div>
-                <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
+            <p>Olá galera!<br/>
+			Chocólatras de plantão! O carnaval já passou e a próxima data comemorativa que vem por ai é uma das minhas favoritas! Páscoa uhul! 
+			Então euzinha como uma chocólatra incontrolável, resolvi fazer um post sobre o que vai rolar de novidade este ano. Separei os meus 
+			favoritos, e não estou só pirando com o chocolate, mais sim com os brindes que alguns viram e tipo quero todos hehe.</p>
+			<p><br/>Nestlé - Star Wars, canecas: Darth Vader e Stormtrooper.</p>
+            <img src="imagens/posts/fotos/photo106.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />            	
+            <img src="imagens/posts/fotos/photo107.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />
+            <p>Lacta - Maleta Hello Kitty.</p>
+            <img src="imagens/posts/fotos/photo108.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />
+            <p>Lacta – Oreo</p>
+            <img src="imagens/posts/fotos/photo109.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />
+            <p>Cacau Show – Headphones da Liga da Justiça.</p>
+            <img src="imagens/posts/fotos/photo110.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />            
+            <img src="imagens/posts/fotos/photo111.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />
+            <p>Kopenhagen – Luminária Disney.</p>
+            <img src="imagens/posts/fotos/photo112.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />
+            <p>Nestlé – Bonecas princesas Disney que trocam vestidos.</p>
+            <img src="imagens/posts/fotos/photo113.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />
+            <p>Nestlé – Caixinha de som Disney.</p>
+            <img src="imagens/posts/fotos/photo114.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />
+            <p>Nestlé – Alpino e Suflair versão colher, kit Kat com pedaços de wafer.</p>
+            <img src="imagens/posts/fotos/photo115.jpg" alt="Louca por chocolate!" title="Louca por chocolate!" />
+            <p>Mais novidades:</p>
+            <iframe width="600" height="315" src="https://www.youtube.com/embed/ChpQiBv3mdE" frameborder="0" allowfullscreen></iframe>	
+            <p>Este post foi um dos mais complicado de fazer, porque a cada novidade que eu achava, eu literalmente surtava, sou chocólatra assumida, 
+            não vivo um dia sem ele, e sou apaixonada por toys, Disney, movies e este ano as empresas se superaram, então ficarei feliz em comprar não 
+            só o chocolate, mas poder curtir os brindes também! Estou ansiosa!<br/><br/> 
+			Galera é isso, até o próximo post.</p>           	
+            <div class="rodape-posts"></div> 
+            <div class="fb-like" data-href="http://desenhandomoda.com.br/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-top: 40px;"></div>                
             </div>
             <div class="fb-comments" data-href="http://desenhandomoda.com.br/" data-numposts="1" data-colorscheme="light" data-width="640"></div>
             
+            
+            
+             
+            
+                  
+             
             <div class="posts2">                
                 <div class="paginacao-titulo"><p>Posts anteriores</p></div>   
                 <div class="paginacao">                    
@@ -94,6 +99,9 @@ and open the template in the editor.
                         <li><a href="pagina3.php">03</a></li>
                         <li><a href="pagina4.php">04</a></li>
                         <li><a href="pagina5.php">05</a></li>
+                        <li><a href="pagina6.php">06</a></li>
+                        <li><a href="pagina7.php">07</a></li>
+                        <li><a href="pagina8.php">08</a></li>
                     </ul>                    
                 </div>
             </div>            
